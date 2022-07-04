@@ -1,14 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Qiaoyu Tan"
+excerpt: "Homepage"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /research/
+  - /research.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a fifth year Ph.D. student in Department of Computer Science and Engineering at Texas A&M University. My advisor is Professor [Xia Hu](https://cs.rice.edu/~xh37/index.html).
+I received my B.Eng degree from School of Computer Science and Technology, Southwest University, supervised by Professor [Guoxian Yu](http://www.sdu-idea.cn/).
+I am interested in a variety of topics related to Machine Learning, such as graph machine learning, recommendation systems, self-supervised learning and model compression for graph neural networks. My current research focuses on self-supervised graph machine learning and tinny GNNs. 
+You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf).
+
+Starting in Fall 2022, I will be an . 
 
 A data-driven personal website
 ======
