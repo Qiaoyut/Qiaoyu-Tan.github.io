@@ -17,7 +17,7 @@ author_profile: true
     
 * [Sparse-Interest Network for Sequential Recommendation](https://arxiv.org/pdf/2102.09267.pdf).        
     **Qiaoyu Tan**, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang and Xia Hu.       
-    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, pages 598-606, 2021.   
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, pages 598-606, 2021. [[code](https://github.com/qiaoyu-tan/SINE)]  
     
 * [Dynamic Memory based Attention Network for Sequential Recommendation](https://arxiv.org/pdf/2102.09269.pdf).        
     **Qiaoyu Tan**, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou and Xia Hu.       
@@ -33,11 +33,11 @@ author_profile: true
     
 * [Learning to Hash with Graph Neural Networks for Recommender Systems](https://arxiv.org/pdf/2003.01917.pdf).        
     **Qiaoyu Tan**, Ninghao Liu, Xing Zhao, Hongxia Yang, Jingren Zhou and Xia Hu.       
-    <i>Proceedings of The Web Conference (**WWW**)</i>, pages 1988-1998, 2020.      
+    <i>Proceedings of The Web Conference (**WWW**)</i>, pages 1988-1998, 2020. [[code](https://github.com/qiaoyu-tan/HashGNN)]     
     
 * [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://arxiv.org/pdf/1905.10668.pdf).        
     Ninghao Liu, **Qiaoyu Tan**, Yuening Li, Hongxia Yang, Jingren Zhou and Xia Hu.       
-    <i>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD**)</i>, pages 932-940, 2019.      
+    <i>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD**)</i>, pages 932-940, 2019. [[code](https://github.com/ninghaohello/Polysemous-Network-Embedding)]      
     
 * [Deep Representation Learning for Social Network Analysis](https://arxiv.org/pdf/1904.08547.pdf) (survey paper).        
     **Qiaoyu Tan**, Ninghao Liu and Xia Hu.       
