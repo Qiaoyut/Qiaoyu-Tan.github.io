@@ -23,6 +23,10 @@ author_profile: true
     **Qiaoyu Tan**, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou and Xia Hu.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, vol 35, pages 4384-4392, 2021.   
     
+* [Subtractive Aggregation for Attributed Anomaly Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Shuang_CIKM21.pdf).        
+    Shuang Zhou, **Qiaoyu Tan**, Zhiming Xu, Xiao Huang and Fu-lai Chung.       
+    <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>, pages 3672-3676, 2021. 
+    
 * [Temporal Augmented Graph Neural Networks for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)          
     Huachi Zhou, **Qiaoyu Tan**, Xiao Huang, Kaixiong Zhou and Xiaoling Wang.       
     <i>ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)</i>, pages 1798-1802, 2021.   
