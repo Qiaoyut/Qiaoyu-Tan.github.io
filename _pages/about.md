@@ -29,14 +29,6 @@ My research interests include data mining and machine learning, with a particula
 * \[2020/03\] I will join Alibaba Group as Research Intern, supervised by [Hongxia Yang](https://sites.google.com/site/hystatistics/).
 * \[2020/01\] 1 paper accepted to WWW 2020. 
 * \[...\] 
-<!-- * \[2021/12\] 1 paper accepted to [SDM 2022](https://www.siam.org/conferences/cm/program/accepted-papers/sdm22-accepted-papers). 
-* \[2021/08\] 1 paper accepted to [CIKM 2021](https://www.cikm2021.org/accepted-papers). 
-* \[2021/04\] 1 paper accepted to [SIGIR 2021](https://sigir.org/sigir2021/accepted-papers/). 
-* \[2020/10\] I will visit the [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/DEEP_lab.html) at PolyU, led by Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html).   
-* \[2020/10\] 1 paper accepted to [WSDM 2021](https://www.wsdm-conference.org/2021/index.php). 
-* \[2020/10\] 1 paper accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). 
-* \[2020/03\] I will join Alibaba Group as Research Intern, supervised by [Hongxia Yang](https://sites.google.com/site/hystatistics/).
-* \[2020/01\] 1 paper accepted to [WWW 2020](https://www2020.thewebconf.org/).  -->
 
 # Industry Experience
 * Research Intern, [Samsung Research American](https://www.sra.samsung.com/), May 2021 - Aug 2021.
