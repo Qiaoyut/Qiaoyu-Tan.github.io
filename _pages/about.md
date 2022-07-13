@@ -31,4 +31,6 @@ You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf).
 * \[...\] 
 
 # Industry Experience
-* Research Intern, 
+* Research Intern, [Samsung Research American](https://www.sra.samsung.com/), May 2021 - Aug 2021.
+* Research Assistant, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), Hong Kong, Nov 2020 - Aug 2021.
+* Research Intern, [Alibaba Group](https://damo.alibaba.com/), Mar 2020 - Aug 2020. 
