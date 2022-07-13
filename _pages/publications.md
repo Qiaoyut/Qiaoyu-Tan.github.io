@@ -37,11 +37,11 @@ author_profile: true
     
 * [Deep Representation Learning for Social Network Analysis](https://arxiv.org/pdf/1904.08547.pdf) (survey paper).        
     **Qiaoyu Tan**, Ninghao Liu and Xia Hu.       
-    <i>Frontiers in Big Data (**SoCS**)</i>, vol 2, pages 2, 2019.      
+    <i>Frontiers in Big Data</i>, vol 2, pages 2, 2019.      
     
 * [Individual and Commonality based Multi-View Multi-Label Learning](https://ieeexplore.ieee.org/document/8906215).        
     **Qiaoyu Tan**, Guoxian Yu, Jun Wang, Carlotta Domeniconi and Xiangliang Zhang.       
-    <i>IEEE Transactions on Cybernetics </i>, vol 51, issue 3, pages 1716-1727, 2019.   
+    <i>IEEE Transactions on Cybernetics (**IEEE Trans Cybern**)</i>, vol 51, issue 3, pages 1716-1727, 2019.   
    
 * [Incomplete Multi-View Weak-Label Learning](https://www.ijcai.org/proceedings/2018/0375.pdf).     
     **Qiaoyu Tan**, Guoxian Yu, Carlotta Domeniconi, Jun Wang and Zili Zhang.        
