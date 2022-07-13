@@ -19,7 +19,7 @@ You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf).
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
 # News
-* \[2022/05\] I will join Samsung Research American for summer intern. 
+* \[2022/05\] I will join Samsung Research American for summer intern, supervised by [Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en). 
 * \[2021/12\] 1 paper accepted to [SDM 2022](https://www.siam.org/conferences/cm/program/accepted-papers/sdm22-accepted-papers). 
 * \[2021/08\] 1 paper accepted to [CIKM 2021](https://www.cikm2021.org/accepted-papers). 
 * \[2021/04\] 1 paper accepted to [SIGIR 2021](https://sigir.org/sigir2021/accepted-papers/). 
