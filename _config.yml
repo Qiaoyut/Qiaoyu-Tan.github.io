@@ -11,9 +11,9 @@ title                    : "Qiaoyu Tan"
 title_separator          : "-"
 name                     : &name "Qiaoyu Tan"
 description              : &description "Ph.D. student at Texas A&M University"
-url                      : https://qiaoyut.github.io/Qiaoyu-Tan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiaoyu-tan.me # the https://jiaoyangli.me base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Qiaoyu-Tan.github.io"
+repository               : "qiaoyu-tan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
