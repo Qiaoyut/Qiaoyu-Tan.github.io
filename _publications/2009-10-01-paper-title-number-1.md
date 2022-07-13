@@ -9,7 +9,7 @@ author_profile: true
 
 * [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/pdf/2201.02534.pdf).     
     **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
-    <i>arXiv (**SDM**)</i>, (preprint), 2022.    
+    <i>arXiv</i>, (preprint), 2022.    
 
 * [Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Shuang_SDM22.pdf).     
     Shuang Zhou, Xiao Huang, Ninghao Liu, **Qiaoyu Tan** and Fu-Lai Chung.      
