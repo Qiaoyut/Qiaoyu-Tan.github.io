@@ -7,8 +7,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /research/
-  - /research.html
+  - /publication/
+  - /publication.html
 ---
 
 I am currently a fifth-year Ph.D. student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html).
