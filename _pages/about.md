@@ -30,7 +30,7 @@ My research interests include data mining and machine learning, with a particula
 * \[2020/01\] 1 paper accepted to WWW 2020. 
 * \[...\] 
 
-# Industry Experience
+# Experience
 * Research Intern, [Samsung Research American](https://www.sra.samsung.com/), May 2021 - Aug 2021.
 * Research Assistant, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), Hong Kong, Nov 2020 - Aug 2021.
 * Research Intern, [Alibaba Group](https://damo.alibaba.com/), Mar 2020 - Aug 2020. 
