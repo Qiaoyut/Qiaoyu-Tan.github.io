@@ -37,7 +37,7 @@ author_profile: true
     
 * [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://arxiv.org/pdf/1905.10668.pdf).        
     Ninghao Liu, **Qiaoyu Tan**, Yuening Li, Hongxia Yang, Jingren Zhou and Xia Hu.       
-    <i>ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (**KDD**)</i>, pages 932-940, 2019.      
+    <i>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD**)</i>, pages 932-940, 2019.      
     
 * [Deep Representation Learning for Social Network Analysis](https://arxiv.org/pdf/1904.08547.pdf) (survey paper).        
     **Qiaoyu Tan**, Ninghao Liu and Xia Hu.       
