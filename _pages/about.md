@@ -14,7 +14,7 @@ redirect_from:
 Hello~, this is Qiaoyu Tan. I am a fifth year Ph.D. student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html).
 <!-- I received my B.Eng degree from School of Computer Science and Technology, Southwest University, supervised by Professor [Guoxian Yu](http://www.sdu-idea.cn/). -->
 My research interests include data mining and machine learning, with a particular focus on graph machine learning, recommendation systems, self-supervised learning and model compression. Recently, I'm a big fan of self-supervised graph learning and Tinny GNNs. Please feel free to reach out for potential collaboration.  
-You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf).
+<!-- You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf). -->
 
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
@@ -43,3 +43,7 @@ You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf).
 * Research Assistant, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), Hong Kong, Nov 2020 - Aug 2021.
 * Research Intern, [Alibaba Group](https://damo.alibaba.com/), Mar 2020 - Aug 2020. 
 * Research Intern, [Alibaba Group](https://damo.alibaba.com/), Hangzhou, May 2018 - Aug 2018. 
+
+# Professional Service
+* Program Committee: AAAI2021-2022, IJCAI2021-2022, ICML2021, CIKM2021, NeurIPS2021, KDD2022
+* External Reviewer: KDD2021, TKDD2021, ICLR2022
