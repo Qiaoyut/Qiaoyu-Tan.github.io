@@ -11,7 +11,7 @@ redirect_from:
   - /publication.html
 ---
 
-I am currently a fifth-year Ph.D. student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html).
+I am currently a fifth-year Ph.D. student in the Department of Computer Science and Engineering at [Texas A&M University](https://www.tamu.edu/), advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html).
 <!-- I received my B.Eng degree from School of Computer Science and Technology, Southwest University, supervised by Professor [Guoxian Yu](http://www.sdu-idea.cn/). -->
 My research interests include data mining and machine learning, with a particular focus on graph machine learning, recommendation systems, self-supervised learning and model compression. Recently, I'm a big fan of self-supervised graph learning and Tinny GNNs. Please feel free to reach out for potential collaboration.  
 <!-- You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf). -->
