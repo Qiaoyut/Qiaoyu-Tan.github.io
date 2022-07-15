@@ -37,5 +37,5 @@ My research interests include data mining and machine learning, with a particula
 * Research Intern, [Alibaba Group](https://damo.alibaba.com/), Hangzhou, May 2018 - Aug 2018. 
 
 # Professional Service
-* Program Committee: AAAI2021-2022, IJCAI2021-2022, ICML2021, CIKM2021, NeurIPS2021, KDD2022
-* External Reviewer: KDD2021, TKDD2021, ICLR2022
+* Program Committee: WSDM2020, AAAI2021-2022, IJCAI2021-2022, KDD2022
+* External Reviewer: KDD2021, TKDD2021, NeurIPS2020-2021, ICLR2021, ICML2021, WWW2021
