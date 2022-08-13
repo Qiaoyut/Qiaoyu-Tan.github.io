@@ -19,15 +19,16 @@ My research interests include data mining and machine learning, with a particula
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
 # News
-* \[2022/05\] I will join Samsung Research American for summer intern, supervised by [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en). 
-* \[2021/12\] 1 paper accepted to SDM 2022. 
-* \[2021/08\] 1 paper accepted to CIKM 2021. 
-* \[2021/04\] 1 paper accepted to SIGIR 2021. 
-* \[2020/10\] I will visit the DEEP Lab at PolyU, led by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html).   
-* \[2020/10\] 1 paper accepted to WSDM 2021. 
-* \[2020/10\] 1 paper accepted to AAAI 2021. 
-* \[2020/03\] I will join Alibaba Group as Research Intern, supervised by [Dr. Hongxia Yang](https://sites.google.com/site/hystatistics/).
-* \[2020/01\] 1 paper accepted to WWW 2020. 
+* \[2022.08\] 1 paper was accepted by CIKM 2022. 
+* \[2022.05\] I will join Samsung Research American for summer intern, supervised by [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en). 
+* \[2021.12\] 1 paper was accepted by SDM 2022. 
+* \[2021.08\] 1 paper was accepted by CIKM 2021. 
+* \[2021.04\] 1 paper was accepted by SIGIR 2021. 
+* \[2020.10\] I will visit the DEEP Lab at PolyU, led by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html).   
+* \[2020.10\] 1 paper was accepted by WSDM 2021. 
+* \[2020.10\] 1 paper was accepted by AAAI 2021. 
+* \[2020.03\] I will join Alibaba Group as Research Intern, supervised by [Dr. Hongxia Yang](https://sites.google.com/site/hystatistics/).
+* \[2020.01\] 1 paper was accepted by WWW 2020. 
 * \[...\] 
 
 # Experience
