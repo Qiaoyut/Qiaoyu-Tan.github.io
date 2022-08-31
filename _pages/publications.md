@@ -11,7 +11,7 @@ author_profile: true
     **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
     <i>arXiv</i>, (preprint), 2022.   
     
-* [Towards Automated Imbalanced Learning with Deep Hierarchical Reinforcement Learning]([https://arxiv.org/pdf/2201.02534.pdf](https://arxiv.org/pdf/2208.12433.pdf).     
+* [Towards Automated Imbalanced Learning with Deep Hierarchical Reinforcement Learning](https://arxiv.org/pdf/2208.12433.pdf).     
     Daochen Zha, Kwei-Herng Lai, **Qiaoyu Tan**, Sirui Ding, Na Zou and Xia Hu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>, 2022.   
 
