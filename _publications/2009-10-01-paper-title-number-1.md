@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* [DreamShard: Generalizable Embedding Table Placement for Recommender Systems].     
+* [DreamShard: Generalizable Embedding Table Placement for Recommender Systems]().     
     Daochen Zha, Louis Feng, **Qiaoyu Tan**, Zirui Liu, Kwei-Herng, Bhargav, Bhushanam, Yuandong Tian, Arun Kejariwal and Xia Hu.      
     <i>Neural Information Processing Systems (**NeurIPS**)</i>, 2022.    
     
