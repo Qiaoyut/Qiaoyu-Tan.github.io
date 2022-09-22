@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-* [DreamShard: Generalizable Embedding Table Placement for Recommender Systems]().     
+* [DreamShard: Generalizable Embedding Table Placement for Recommender Systems].     
     Daochen Zha, Louis Feng, **Qiaoyu Tan**, Zirui Liu, Kwei-Herng, Bhargav, Bhushanam, Yuandong Tian, Arun Kejariwal and Xia Hu.      
-    <i>Neural Information Processing Systems (**NeurIPS**) </i>, 2022.    
+    <i>Neural Information Processing Systems (**NeurIPS**)</i>, 2022.    
     
  * [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/pdf/2201.02534.pdf).     
  **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
