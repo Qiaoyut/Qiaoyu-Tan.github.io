@@ -19,6 +19,7 @@ My research interests include data mining and machine learning, with a particula
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
 # News
+* \[2022.09\] 3 papers were accepted by WSDM 2023. 
 * \[2022.09\] 1 paper was accepted by NeurIPS 2022. 
 * \[2022.08\] 1 paper was accepted by CIKM 2022. 
 * \[2022.05\] I will join Samsung Research American for summer intern, supervised by [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en). 
