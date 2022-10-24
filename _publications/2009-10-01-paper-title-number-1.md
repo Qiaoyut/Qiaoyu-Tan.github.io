@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+* [Active Ensemble Learning for Knowledge Graph Error Detection]().     
+    Junnan Dong, Qinggang Zhang, Xiao Huang, **Qiaoyu Tan**, Daochen Zha and Zihao Zhao.      
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
+    
 * [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection]().     
-    **Qiaoyu Tan**, Xin Zhang, Ninghao Liu, Daochen Zha,Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu.      
+    **Qiaoyu Tan**, Xin Zhang, Ninghao Liu, Daochen Zha, Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
     
 * [DreamShard: Generalizable Embedding Table Placement for Recommender Systems]().     
