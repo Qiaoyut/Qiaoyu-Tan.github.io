@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* [S2GAE: Self-Supervised Graph Autoencoders Are Generalizable Learners with Graph Masking]().     
+    **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023. 
+    
 * [Active Ensemble Learning for Knowledge Graph Error Detection]().     
     Junnan Dong, Qinggang Zhang, Xiao Huang, **Qiaoyu Tan**, Daochen Zha and Zihao Zhao.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
