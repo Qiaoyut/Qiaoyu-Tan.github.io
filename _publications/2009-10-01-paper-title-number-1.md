@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+* [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection]().     
+    **Qiaoyu Tan**, Xin Zhang, Ninghao Liu, Daochen Zha,Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu.      
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
+    
 * [DreamShard: Generalizable Embedding Table Placement for Recommender Systems]().     
     Daochen Zha, Louis Feng, **Qiaoyu Tan**, Zirui Liu, Kwei-Herng, Bhargav, Bhushanam, Yuandong Tian, Arun Kejariwal and Xia Hu.      
-    <i>Neural Information Processing Systems (**NeurIPS**)</i>, 2022.    
+    <i>Neural Information Processing Systems (**NeurIPS**)</i>, 2022.   
     
  * [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/pdf/2201.02534.pdf).     
  **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
