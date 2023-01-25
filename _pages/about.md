@@ -19,7 +19,7 @@ My research interests include data mining and machine learning, with a particula
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
 # News
-* \[2022.10\] 1 paper was accepted by WWW 2023. 
+* \[2023.01\] 1 paper was accepted by WWW 2023. 
 * \[2022.10\] 3 papers were accepted by WSDM 2023. 
 * \[2022.09\] 1 paper was accepted by NeurIPS 2022. 
 * \[2022.08\] 1 paper was accepted by CIKM 2022. 
