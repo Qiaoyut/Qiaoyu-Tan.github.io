@@ -18,8 +18,6 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 <!-- recommendation systems, self-supervised learning and model compression. Recently, I'm a big fan of self-supervised graph learning and Tinny GNNs. Please feel free to reach out for potential collaboration.   -->
 <!-- You can find my CV [here](https://qiaoyu-tan.github.io/files/paper1.pdf). -->
 
-<span style="color:red;">sad</span>
-
 <!-- Starting in Fall 2022, I will be an available on job market.   -->
 
 # News
