@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs]().     
+    Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, **Qiaoyu Tan** and Zhimeng Jiang.      
+    <i>The Web Conference (**WWW**)</i>, 2023. 
+    
 * [S2GAE: Self-Supervised Graph Autoencoders Are Generalizable Learners with Graph Masking]().     
     **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023. 
@@ -53,7 +57,7 @@ author_profile: true
     
 * [Learning to Hash with Graph Neural Networks for Recommender Systems](https://arxiv.org/pdf/2003.01917.pdf).        
     **Qiaoyu Tan**, Ninghao Liu, Xing Zhao, Hongxia Yang, Jingren Zhou and Xia Hu.       
-    <i>Proceedings of The Web Conference (**WWW**)</i>, pages 1988-1998, 2020. [[code](https://github.com/qiaoyu-tan/HashGNN)]      
+    <i>The Web Conference (**WWW**)</i>, pages 1988-1998, 2020. [[code](https://github.com/qiaoyu-tan/HashGNN)]      
     
 * [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://arxiv.org/pdf/1905.10668.pdf).        
     Ninghao Liu, **Qiaoyu Tan**, Yuening Li, Hongxia Yang, Jingren Zhou and Xia Hu.       
