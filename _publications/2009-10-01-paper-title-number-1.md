@@ -9,17 +9,6 @@ author_profile: true
 * [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
     <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% include base_path %}
-* [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
-    Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
-    <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
     
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_theWebConf2023.pdf).     
     Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, **Qiaoyu Tan** and Zhimeng Jiang.      
