@@ -4,6 +4,7 @@ title: "/"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 ## Preprint Papers
 * [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
@@ -19,8 +20,6 @@ author_profile: true
     <i>arXiv preprint arXiv:2209.06560</i>, 2022. 
 
 ## Refereed Papers
-
-{% include base_path %}
 * [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
     <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
