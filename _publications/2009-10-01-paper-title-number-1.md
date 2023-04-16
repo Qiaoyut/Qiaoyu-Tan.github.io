@@ -13,6 +13,10 @@ author_profile: true
 * [Towards Fair Patient-Trial Matching via Patient-Criterion Level Fairness Constraint](https://arxiv.org/pdf/2303.13790.pdf).     
     Chia-Yuan Chang, Jiayi Yuan, Sirui Ding, **Qiaoyu Tan**, Kai Zhang, Xiaoqian Jiang, Xia Hu and Na Zou.      
     <i>arXiv preprint arXiv:2303.13790</i>, 2023. 
+    
+* [Graph Contrastive Learning with Personalized Augmentation](https://arxiv.org/pdf/2209.06560.pdf).     
+    Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
+    <i>arXiv preprint arXiv:2209.06560</i>, 2022. 
 
 ## Refereed Papers
 
