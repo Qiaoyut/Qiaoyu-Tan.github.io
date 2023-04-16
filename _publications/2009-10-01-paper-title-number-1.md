@@ -6,23 +6,23 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [Interest Driven Graph Structure Learning for Session-based Recommendation]().     
+* [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
     <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
     
-* [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs]().     
+* [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_theWebConf2023.pdf).     
     Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, **Qiaoyu Tan** and Zhimeng Jiang.      
     <i>The Web Conference (**WWW**)</i>, 2023. 
     
-* [S2GAE: Self-Supervised Graph Autoencoders Are Generalizable Learners with Graph Masking]().     
+* [S2GAE: Self-Supervised Graph Autoencoders Are Generalizable Learners with Graph Masking](https://dl.acm.org/doi/abs/10.1145/3539597.3570404).     
     **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023. 
     
-* [Active Ensemble Learning for Knowledge Graph Error Detection]().     
+* [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_WSDM2023.pdf).     
     Junnan Dong, Qinggang Zhang, Xiao Huang, **Qiaoyu Tan**, Daochen Zha and Zihao Zhao.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
     
-* [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection]().     
+* [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection](https://arxiv.org/pdf/2212.12488.pdf).     
     **Qiaoyu Tan**, Xin Zhang, Ninghao Liu, Daochen Zha, Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>, 2023.   
     
