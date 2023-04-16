@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+* [Interest Driven Graph Structure Learning for Session-based Recommendation]().     
+    Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
+    <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
+    
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs]().     
     Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, **Qiaoyu Tan** and Zhimeng Jiang.      
     <i>The Web Conference (**WWW**)</i>, 2023. 
