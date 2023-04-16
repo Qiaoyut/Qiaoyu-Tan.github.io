@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Preprint Papers
-* [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
-    Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
-    <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
+* [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
+    Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
+    <i>(**Arxiv**)</i>, 2023. 
 
 ## Refereed Papers
 
