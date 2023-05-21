@@ -1,16 +1,22 @@
 # main links links
 main:
+#   - title: "DATAML LAB"
+#     url: /dataml/
+    
   - title: "Publications"
     url: /publications/
-   
-  - title: "Experiences"
-    url: /experience/
-    
-  - title: "Teaching"
-    url: /teaching/
     
   - title: "Service"
     url: /service/
+    
+  - title: "Grants & Awards"
+    url: /award/
+    
+  - title: "Teach & Talk"
+    url: /teaching/
+    
+  - title: "Experiences"
+    url: /experience/
     
 #   - title: "CV"
 #     url: https://qiaoyu-tan.github.io/files/CV-Qiaoyu.pdf
