@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V9bOnV4AAAAJ&hl=en"
   email            : qyan@tamu.edu
-  researchgate     : "https://www.researchgate.net/profile/Qiaoyu-Tan"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
