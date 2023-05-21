@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Full Publication List"
+title: "Recent Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-## Recent Preprints
+<!-- {% include base_path %} -->
+
 * [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
     Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
     <i>arXiv preprint arXiv:2304.00012</i>, 2023. 
