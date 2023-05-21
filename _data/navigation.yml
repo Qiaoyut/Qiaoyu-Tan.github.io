@@ -5,7 +5,10 @@ main:
    
   - title: "Experiences"
     url: /experience/
-
-  - title: "CV"
-    url: https://qiaoyu-tan.github.io/files/CV-Qiaoyu.pdf
+    
+  - title: "Service"
+    url: /service/
+    
+#   - title: "CV"
+#     url: https://qiaoyu-tan.github.io/files/CV-Qiaoyu.pdf
     
