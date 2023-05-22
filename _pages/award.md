@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Grants&Award"
-permalink: /dataml/
+permalink: /award/
 author_profile: true
 ---
