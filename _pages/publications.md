@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Recent Preprints"
+title: "Selected Publications [Google Scholar](https://scholar.google.com/citations?user=V9bOnV4AAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
 <!-- {% include base_path %} -->
 
+## Recent Preprints
 * [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
     Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
     <i>arXiv preprint arXiv:2304.00012</i>, 2023. 
@@ -19,7 +20,7 @@ author_profile: true
     Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
     <i>arXiv preprint arXiv:2209.06560</i>, 2022. 
 
-## Conference/Journal Papers
+## Conference/Journal Publications
 * [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
     <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>, 2023. 
