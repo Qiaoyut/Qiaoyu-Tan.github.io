@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 ## Recent Preprints
 * [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
