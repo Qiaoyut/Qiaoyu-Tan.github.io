@@ -23,18 +23,6 @@ author_profile: true
     Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
     <i>arXiv preprint arXiv:2209.06560</i>, 2022. <a href="https://arxiv.org/pdf/2209.06560.pdf">[Paper]</a>
     
-* [Multi-task Learning for Post-transplant Cause of Death Analysis](https://arxiv.org/pdf/2304.00012.pdf).     
-    Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
-    <i>arXiv preprint arXiv:2304.00012</i>, 2023. 
-    
-* [Towards Fair Patient-Trial Matching via Patient-Criterion Level Fairness Constraint](https://arxiv.org/pdf/2303.13790.pdf).     
-    Chia-Yuan Chang, Jiayi Yuan, Sirui Ding, **Qiaoyu Tan**, Kai Zhang, Xiaoqian Jiang, Xia Hu and Na Zou.      
-    <i>arXiv preprint arXiv:2303.13790</i>, 2023. 
-    
-* [Graph Contrastive Learning with Personalized Augmentation](https://arxiv.org/pdf/2209.06560.pdf).     
-    Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
-    <i>arXiv preprint arXiv:2209.06560</i>, 2022. 
-
 ## Conference/Journal Publications
 * [Interest Driven Graph Structure Learning for Session-based Recommendation](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf).     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
