@@ -15,8 +15,8 @@ main:
   - title: "Teach&Talk"
     url: /teaching/
     
-  - title: "Experiences"
-    url: /experience/
+#   - title: "Experiences"
+#     url: /experience/
     
 #   - title: "CV"
 #     url: https://qiaoyu-tan.github.io/files/CV-Qiaoyu.pdf
