@@ -16,7 +16,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 📢News: **I will join the [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai as a tenure-track Assistant Professor starting in Fall 2023.** 
 
 
-<font color="#FF0000" size=4>Welcome to join us:</font>   I am currently seeking multiple fully funded Ph.D. students starting from Fall 2024. Additionally, we have several positions available for Post-doctoral research fellows and Research Assistants, starting immediately. If you are interested, please feel free to contact me via email: qiaoyu.tan at nyu.edu
+<font color="#FF0000" size=4>Welcome to join us:</font> I am currently seeking multiple fully funded Ph.D. students starting from Fall 2024. Additionally, we have several positions available for Post-doctoral research fellows and Research Assistants, starting immediately. If you are interested, please feel free to contact me via email: qiaoyu.tan at nyu.edu
 
 # News
 * \[2023.01\] 1 paper was accepted by WWW 2023. 
