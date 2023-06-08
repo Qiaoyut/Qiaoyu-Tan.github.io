@@ -21,7 +21,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 - **Prospective P.h.D students**. We have multiple fully funded positions available starting in Fall 2024. If you are interested in working with me, please reach out to me before submitting your applications. See [instructions]()
 - **Post-doctoral Research Fellow**. We currently have several openings for post-doctoral positions. Successful candidates will work on topics related to machine learning foundations across a variety of data challenges. Competitive salary and benefits will be provided. For more information, please visit the [ Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning](https://dail.shanghai.nyu.edu/).
 - **Research Assistant**. We are looking for talented students to join our team as research assistants. As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your life in Shanghai. 
--- **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please reach out to me directly with your CV and latest transcript. 
+- **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please reach out to me directly with your CV and latest transcript. 
 
 # News
 * \[2023.01\] 1 paper was accepted by WWW 2023. 
