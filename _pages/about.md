@@ -24,6 +24,8 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 - **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please reach out to me directly with your CV and latest transcript. 
 
 # News
+* \[2023.06\] I was successfully passed my dissertation defense. 
+* \[2023.03\] 1 paper was accepted by PAKDD 2023. 
 * \[2023.01\] 1 paper was accepted by WWW 2023. 
 * \[2022.10\] 3 papers were accepted by WSDM 2023. 
 * \[2022.09\] 1 paper was accepted by NeurIPS 2022. 
