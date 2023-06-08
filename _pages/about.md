@@ -14,7 +14,7 @@ redirect_from:
 I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at Texas A&M University, advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). My research interests lie in data mining and machine learning, with a particular focus on graph machine learning, self-supervised learning, and tinny machine learning. I aim to develop effective and efficient graph machine learning algorithms to tackle key challenges faced by real-world AI systems, such as the label-scarce issue in social media, the data sparsity and cold-start problems in recommendation systems, and the outlier detection task in high-stake applications such as finance and business. My current research is centered around **Trustworthy Graph Ecosystem**, with a focus on **foundation**, **robustness**, and **efficiency**, to support the deployment of graph algorithms in the industry to realize social benefits. Please feel free to reach out for potential collaboration.  
 
 📢News: **I will join the [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai as a tenure-track Assistant Professor starting in Fall 2023.** 
-
+<font color=red>Your text here</font>
 I am currently seeking multiple fully funded Ph.D. students starting from Fall 2024. Additionally, we have several positions available for Post-doctoral research fellows and Research Assistants, starting immediately. If you are interested, please feel free to contact me via email at qiaoyu.tan@nyu.edu.
 
 # News
