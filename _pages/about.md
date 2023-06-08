@@ -13,7 +13,8 @@ redirect_from:
 
 I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at Texas A&M University, advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). My research interests lie in data mining and machine learning, with a particular focus on graph machine learning, self-supervised learning, and tinny machine learning. I aim to develop effective and efficient graph machine learning algorithms to tackle key challenges faced by real-world AI systems, such as the label-scarce issue in social media, the data sparsity and cold-start problems in recommendation systems, and the outlier detection task in high-stake applications such as finance and business. My current research is centered around **Trustworthy Graph Ecosystem**, with a focus on **foundation**, **robustness**, and **efficiency**, to support the deployment of graph algorithms in the industry to realize social benefits. Please feel free to reach out for potential collaboration.  
 
-⭐ \U0001F3BA
+⭐ \U0001F3BA &#128024;
+
  <font color="#FF0000" size=4>I am on the academic job market for faculty and postdoctoral positions.</font>  
 
 
