@@ -13,10 +13,15 @@ redirect_from:
 
 I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at Texas A&M University, advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). My research interests lie in data mining and machine learning, with a particular focus on graph machine learning, self-supervised learning, and tinny machine learning. I aim to develop effective and efficient graph machine learning algorithms to tackle key challenges faced by real-world AI systems, such as the label-scarce issue in social media, the data sparsity and cold-start problems in recommendation systems, and the outlier detection task in high-stake applications such as finance and business. My current research is centered around **Trustworthy Graph Ecosystem**, with a focus on **foundation**, **robustness**, and **efficiency**, to support the deployment of graph algorithms in the industry to realize social benefits. Please feel free to reach out for potential collaboration.  
 
-📢News: **I will join the [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai as a tenure-track Assistant Professor starting in Fall 2023.** 
+**I will join the [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai as a tenure-track Assistant Professor starting in Fall 2023.** 
 
 
-<font color="#FF0000" size=4>Welcome to join us:</font> I am currently seeking multiple fully funded Ph.D. students starting from Fall 2024. Additionally, we have several positions available for Post-doctoral research fellows and Research Assistants, starting immediately. If you are interested, please feel free to contact me via email: qiaoyu.tan at nyu.edu
+<font color="#FF0000" size=4>📢Welcome to join us:</font> I am actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. if you are interested in any of the following positions, Please don't hesitate to contact me via email at *qiaoyu.tan at nyu.edu*
+
+- **Prospective P.h.D students**. We have multiple fully funded positions available starting in Fall 2024. If you are interested in working with me, please reach out to me before submitting your applications. See [instructions]()
+- **Post-doctoral Research Fellow**. We currently have several openings for post-doctoral positions. Successful candidates will work on topics related to machine learning foundations across a variety of data challenges. Competitive salary and benefits will be provided. For more information, please visit the [ Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning](https://dail.shanghai.nyu.edu/).
+- **Research Assistant**. We are looking for talented students to join our team as research assistants. As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your life in Shanghai. 
+-- **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please reach out to me directly with your CV and latest transcript. 
 
 # News
 * \[2023.01\] 1 paper was accepted by WWW 2023. 
