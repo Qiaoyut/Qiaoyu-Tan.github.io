@@ -8,3 +8,8 @@ author_profile: true
 - Graph Analytics. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
 - Sequence Modeling. Large Language Model, Sequential Recommendation, Session-based Recommendation, Time-Series Analysis, Conversational AI 
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
+
+
+# PhD Applications
+(We have multiple positions for Fall every year)
+
