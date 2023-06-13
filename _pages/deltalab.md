@@ -9,7 +9,7 @@ author_profile: true
 - Sequence Modeling. Large Language Model, Sequential Recommendation, Session-based Recommendation, Time-Series Analysis, Conversational AI 
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
  -->
-**We are looking for passionate PhD students, Post-doctoral Fellow, Master Students, and Undergraduate Students to join the team ([See openings]())!
+**We are looking for passionate PhD students, Post-doctoral Fellow, Master Students, and Undergraduate Students to join the team ([See openings]())!**
 
 # Lab Members
 ## Faculty Member
