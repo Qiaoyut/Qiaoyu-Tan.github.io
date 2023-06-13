@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Services"
+title: "Organizer"
 permalink: /service/
 author_profile: true
 ---
-
-# Organizer
 - 2023: 11th ICHI Conference [[Website](https://ieeeichi.github.io/ICHI2023/)]
 
 # Conference Program Committee Member
