@@ -11,8 +11,7 @@ author_profile: true
  -->
 **We are looking for passionate PhD students, Post-doctoral Fellow, Master Students, and Undergraduate Students to join the team ([See openings]())!**
 
-# Lab Members
-## Faculty Member
+# Faculty
 
-# Open Positions
-> Group Members
+# PhD Students
+<!-- > Group Members -->
