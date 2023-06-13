@@ -14,4 +14,4 @@ author_profile: true
 > Coming soon!
 
 # Visitors/Interns
-> Yi Fang (Summer 2023)[Remote]
+**Yi Fang** (Summer 2023)[Remote]
