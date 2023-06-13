@@ -37,6 +37,5 @@ For Master's and Bachelor's students at NYU's global system (e.g., New York, Sha
 # Visiting and Intern Positions
 Visiting research and intern students are welcome to join us either onsite or online. These positions are available year round. Powerful computational resources will be provided to support your research and exploration.  
 
-# 
 
 <u>Due to the high volume of queries, I may not be able to reply to each one individually.</u>
