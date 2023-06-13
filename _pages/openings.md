@@ -26,4 +26,10 @@ The application deadline is usually in **December** (see [here](https://shanghai
 
 <u>Self-funded and visiting</u> PhD positions are available year round.
 
-# Research Assistant (RA) and Visiting Positions
+# Research Assistant (RA) and Internal Students
+We are looking for excelent students to join us as research assistants (preferably >= 6 months). As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your study in Shanghai.
+
+For Master's and Bachelor's students at NYU's global system (e.g., New York, Shanghai, and Abu Dhabi campuses) who intent to work with us, please contact us as earliest due to the limited positions per year. ML knowledge, Python coding and English writing experience is desirable.
+
+
+# Visiting Positions
