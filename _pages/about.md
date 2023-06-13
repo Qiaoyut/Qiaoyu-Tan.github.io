@@ -16,9 +16,6 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.edu/academics/majors/computer-science) at [New York Univesity Shanghai](https://shanghai.nyu.edu/) (NYU Shanghai), leading the [Data-Centric Intelligent Lab (Delta)](https://qiaoyu-tan.github.io/deltalab/). Prior to NYU Shanghai, I received my Ph.D. degree in CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). In Delta lab, our research interests are generally in data mining and machine learning, with a particular focus on graph machine learning, foundation models, and trustworthy AI. Our research is motivated by, and contributed to, applications in social science, recommendation systems, Q&A system, and health informatics. 
 
 
-**I will join the [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai as a tenure-track Assistant Professor starting in Fall 2023.** 
-
-
 <font color="#FF0000" size=4>📢Welcome to join us: I am actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. if you are interested in any of the following positions, please don't hesitate to contact me via email (qiaoyu.tan at nyu.edu) with your CV. </font>
 
 - **Prospective P.h.D students**. We have multiple fully funded positions available starting in Fall 2024. If you are interested in working with me, please reach out to me before submitting your applications. See [instructions]()
@@ -27,6 +24,7 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 - **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please feel free to drop me an email with your CV and latest transcript. 
 
 # News
+* \[2023.06\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
 * \[2023.03\] 1 paper was accepted by PAKDD 2023. 
 * \[2023.01\] 1 paper was accepted by WWW 2023. 
