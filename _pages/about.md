@@ -15,6 +15,12 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 
 Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.edu/academics/majors/computer-science) at [New York Univesity Shanghai](https://shanghai.nyu.edu/) (NYU Shanghai), leading the [Data-Centric Intelligent Lab (Delta)](https://qiaoyu-tan.github.io/deltalab/). Prior to NYU Shanghai, I received my Ph.D. degree in CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). In Delta lab, our research interests are generally in data mining and machine learning, with a particular focus on graph machine learning, foundation models, and trustworthy AI. Our research is motivated by, and contributed to, applications in social science, recommendation systems, Q&A system, and health informatics. 
 
+We strive to develop *accurate*, *universal*, *trustworthy*, and *efficient* machine learning algorithms with theoretical properties to better extract valuable patterns from diverse high-impact data problems and real-world challenges, including but not limited to:
+- **Graph Data Analytics**. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
+- **Sequence Data Processing**. Large Language Model, Sequential and Session Recommendation, Time-Series Analysis, Conversational AI 
+- **Tabular Data Mining**. AI for X (e.g., Health, Education, and Finance) 
+
+
 ⭐📢 **<font color=red size=5> Welcome to join us:</font>**
 
 <font color=black size=4>I am actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. If you are interested in any of the following positions, please feel free to drop me an email with your CV.</font>
