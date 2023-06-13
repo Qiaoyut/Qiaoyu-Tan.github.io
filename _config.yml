@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiaoyu Tan"
 title_separator          : "-"
 name                     : &name "Qiaoyu Tan"
-description              : &description "Ph.D. student at Texas A&M University"
+description              : &description "Assistant Professor @ NYU Shanghai"
 url                      : "https://qiaoyu-tan.github.io" # the https://jiaoyangli.me base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiaoyu-tan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiaoyu Tan"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Texas A&M University"
-  location         : "College Station, Texas"
+  bio              : "Assistant Professor @NYU Shanghai"
+  location         : "Pudong New District Shanghai, 200126"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V9bOnV4AAAAJ&hl=en"
-  email            : qyan@tamu.edu
+  email            : qiaoyu.tan@nyu.edu
   researchgate     : 
   uri              :
   bitbucket        :
