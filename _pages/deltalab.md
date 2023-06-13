@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "XX Lab"
-permalink: /dataml/
+permalink: /deltalab/
 author_profile: true
 ---
 
