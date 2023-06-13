@@ -26,6 +26,9 @@ The application deadline is usually in **December** (see [here](https://shanghai
 
 <u>Self-funded and visiting</u> PhD positions are available year round.
 
+# Postdoc Positions
+We currently have several openings for post-doctoral positions. Qualified candidates are encouraged to apply the [Postdoctoral Fellowships in Data Science and Machine Learning](https://apply.interfolio.com/122256). Review of applications will begin immediately and will continue until the positions are filled. Successful candidates will work on topics related to machine learning foundations across a variety of data challenges. Competitive salary and benefits will be provided. For more information, please visit the Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning.
+
 # Research Assistant (RA) and Internal Students
 We are looking for excelent students to join us as research assistants (preferably >= 6 months). As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your study in Shanghai.
 
