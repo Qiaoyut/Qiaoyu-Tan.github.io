@@ -23,7 +23,7 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 
 ⭐📢 **<font color=red size=5> Welcome to join us:</font>**
 
-<font color=black size=4>I am actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. If you are interested in any of the following positions, please feel free to drop me an email with your CV.</font>
+<font color=black size=4>Delta Lab is actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. If you are interested in any of the following positions, please feel free to drop me an email with your CV.</font>
 
 
 - **Prospective P.h.D students**. We have multiple fully funded positions available starting in Fall 2024. If you are interested in working with us, please reach out to me before submitting your applications. See [instructions]()
