@@ -12,7 +12,7 @@ author_profile: true
 # Why Join Us?
 - NYU Shanghai is one of the three degree-granting compuses (including New York, Shanghai, and Abu Dhabi) in New York University. NYU ranks 25th in the United States (US News).
 - Department of Computer Science of NYU is ranked 20th in the United States, according to CSRankings.
-- Located in the renowned Pudong New District of Shanghai City, which is the largest and most prosperous city in China. 
+- Located in the renowned Pudong New District of Shanghai, which is the largest and most prosperous city in China. 
 
 
 # PhD Applications[Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program)
