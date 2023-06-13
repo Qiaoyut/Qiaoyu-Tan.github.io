@@ -18,6 +18,6 @@ author_profile: true
 # PhD Applications ([Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program))
 (We have multiple positions for Fall every year)
 If you are interested in joining Delta lab, please first contact us at: [<a href="mailto:qiaoyu.tan@nyu.edu">qiaoyu.tan@nyu.edu</a>].
-- Please hilight your BS's Average Score/100 and TOEFL/IELTS, since NYU Shanghai has specific requirements
-- Please attach you CV with your publications, national award, and research projects/interns, and Transcrips of BS/MS programmes
+- Please highlight your BS's Average Score/100 and TOEFL/IELTS, since NYU Shanghai has specific requirements
+- Please attach your CV with publication list, national award, and research projects/interns, and Transcrips of BS/MS programmes
 
