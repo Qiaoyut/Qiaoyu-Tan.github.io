@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "DCML LAB"
-    url: /dataml/
+  - title: "Delta LAB"
+    url: /deltalab/
     
   - title: "Publications"
     url: /publications/
