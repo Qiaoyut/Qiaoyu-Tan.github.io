@@ -17,7 +17,9 @@ author_profile: true
 
 # PhD Applications ([Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program))
 (We have multiple positions for Fall every year)
+
 If you are interested in joining Delta lab, please first contact us at: [<a href="mailto:qiaoyu.tan@nyu.edu">qiaoyu.tan@nyu.edu</a>].
 - Please highlight your BS's Average Score/100 and TOEFL/IELTS, since NYU Shanghai has specific requirements
 - Please attach your CV with publication list, national award, and research projects/interns, and Transcrips of BS/MS programmes
 
+The application deadline is **December 12** (hard time). Accepted PhD students will recieve financial aid through the NYU Shanghai Doctoral Fellowship, including tuition fees and an annual stipend. Additional benefits including international health insurance, housing assistance in New York, and travel funds.
