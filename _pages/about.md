@@ -25,10 +25,11 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 # News
 * \[2023.06\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
-* \[2023.05\] 1 will serve as the PC Member of NeurIPS'23. 
-* \[2023.04\] 1 will serve as the PC Member of CIKM'23. 
+* \[2023.05\] I will serve as the PC Member of NeurIPS'23. 
+* \[2023.04\] I will serve as the PC Member of CIKM'23. 
 * \[2023.03\] 1 paper was accepted by PAKDD'23. 
 * \[2023.01\] 1 paper was accepted by WWW'23. 
+* \[2023.05\] I will serve as the Web Chair of ICHI'23. 
 * \[2022.10\] 3 papers were accepted by WSDM'23. 
 * \[2022.09\] 1 paper was accepted by NeurIPS'22. 
 * \[2022.08\] 1 paper was accepted by CIKM'22. 
