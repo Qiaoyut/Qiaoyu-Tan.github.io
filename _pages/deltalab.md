@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Data Centric Intelligent Lab (Delta) @ NYU Shanghai"
+title: "Welcome to the Data Lab"
 permalink: /deltalab/
 author_profile: true
 ---
 
-Coming soon, stay tuned!
+# Group Members
+Coming soon!
 
 > Group Members
