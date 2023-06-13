@@ -25,20 +25,22 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 # News
 * \[2023.06\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
-* \[2023.03\] 1 paper was accepted by PAKDD 2023. 
-* \[2023.01\] 1 paper was accepted by WWW 2023. 
-* \[2022.10\] 3 papers were accepted by WSDM 2023. 
-* \[2022.09\] 1 paper was accepted by NeurIPS 2022. 
-* \[2022.08\] 1 paper was accepted by CIKM 2022. 
+* \[2023.05\] 1 will serve as the PC Member of NeurIPS'23. 
+* \[2023.04\] 1 will serve as the PC Member of CIKM'23. 
+* \[2023.03\] 1 paper was accepted by PAKDD'23. 
+* \[2023.01\] 1 paper was accepted by WWW'23. 
+* \[2022.10\] 3 papers were accepted by WSDM'23. 
+* \[2022.09\] 1 paper was accepted by NeurIPS'22. 
+* \[2022.08\] 1 paper was accepted by CIKM'22. 
 * \[2022.05\] I will join Samsung Research American for summer intern, supervised by [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en). 
-* \[2021.12\] 1 paper was accepted by SDM 2022. 
-* \[2021.08\] 1 paper was accepted by CIKM 2021. 
-* \[2021.04\] 1 paper was accepted by SIGIR 2021. 
+* \[2021.12\] 1 paper was accepted by SDM'22. 
+* \[2021.08\] 1 paper was accepted by CIKM'21. 
+* \[2021.04\] 1 paper was accepted by SIGIR'21. 
 * \[2020.10\] I will visit the DEEP Lab at PolyU, led by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html).   
-* \[2020.10\] 1 paper was accepted by WSDM 2021. 
-* \[2020.10\] 1 paper was accepted by AAAI 2021. 
+* \[2020.10\] 1 paper was accepted by WSDM'21. 
+* \[2020.10\] 1 paper was accepted by AAAI'21. 
 * \[2020.03\] I will join Alibaba Group as Research Intern, supervised by [Dr. Hongxia Yang](https://sites.google.com/site/hystatistics/).
-* \[2020.01\] 1 paper was accepted by WWW 2020. 
+* \[2020.01\] 1 paper was accepted by WWW'20. 
 * \[...\] 
 
 # Background
