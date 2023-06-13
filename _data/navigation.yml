@@ -3,6 +3,9 @@ main:
   - title: "Delta Lab"
     url: /deltalab/
     
+  - title: "Openings"
+    url: /openings/
+    
   - title: "Publications"
     url: /publications/
     
