@@ -15,6 +15,6 @@ author_profile: true
 - Located in the renowned Pudong New District of Shanghai, which is the largest and most prosperous city in China. 
 
 
-# PhD Applications[Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program)
+# PhD Applications ([Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program))
 (We have multiple positions for Fall every year)
 
