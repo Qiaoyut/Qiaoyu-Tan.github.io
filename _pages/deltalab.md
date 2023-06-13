@@ -12,3 +12,6 @@ author_profile: true
 
 # PhD Students
 > Coming soon!
+
+# Visitors/Interns
+> Yi Fang (Summer 2023)[Remote]
