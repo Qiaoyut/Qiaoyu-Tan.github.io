@@ -45,11 +45,3 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 
 # Background
 I received my Ph.D. degree in the  CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). I also hold a B.S. degree in Computer Science and Technology Department from Southwest University. Prior to my current position, I worked as a research intern at Alibaba Damo Academy and Samsung Research American. 
-<!-- 
-* Research Intern, [Samsung Research American](https://www.sra.samsung.com/), May 2022 - Aug 2022.
-* Research Assistant, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), Hong Kong, Nov 2020 - Aug 2021.
-* Research Intern, [Alibaba Group](https://damo.alibaba.com/), Mar 2020 - Aug 2020. 
-* Research Intern, [Alibaba Group](https://damo.alibaba.com/), Hangzhou, May 2018 - Aug 2018. 
-# Professional Service
-* Program Committee: WSDM2020, AAAI2021-2022, IJCAI2021-2022, KDD2022
-* External Reviewer: KDD2021, TKDD2021, NeurIPS2020-2021, ICLR2021, ICML2021, WWW2021 -->
