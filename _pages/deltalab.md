@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to the Data Lab"
+title: "Welcome to the Delta Lab"
 permalink: /deltalab/
 author_profile: true
 ---
