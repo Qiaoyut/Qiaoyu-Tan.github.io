@@ -10,7 +10,9 @@ author_profile: true
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
 # Why Join Us?
-NYU Shanghai is the *Shanghai* campus of New York University, one of three degree-awarded campus (including New York, Shanghai, and Abu Dhabi) in NYU's Global System. 
+- NYU Shanghai is one of the three degree-granting compuses (including New York, Shanghai, and Abu Dhabi) in New York University. NYU ranks **25th in the United States (US News)**.
+- Department of Computer Science is ranked 20th in the United States, according to CSRankings.
+
 
 # PhD Applications[Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program)
 (We have multiple positions for Fall every year)
