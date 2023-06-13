@@ -26,9 +26,9 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 - **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please feel free to drop me an email with your CV and latest transcript. 
 
 # News
-* \[2023.06\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
 * \[2023.05\] I will serve as the PC Member of NeurIPS'23. 
+* \[2023.05\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
 * \[2023.04\] I will serve as the PC Member of CIKM'23. 
 * \[2023.03\] 1 paper was accepted by PAKDD'23. 
 * \[2023.01\] 1 paper was accepted by WWW'23. 
