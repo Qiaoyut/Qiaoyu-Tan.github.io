@@ -34,5 +34,5 @@ We are looking for excelent students to join us as research assistants (preferab
 
 For Master's and Bachelor's students at NYU's global system (e.g., New York, Shanghai, and Abu Dhabi campuses) who intent to work with us, please contact us as earliest due to the limited positions per year. ML knowledge, Python coding and English writing experience is desirable.
 
-
-# Visiting Positions
+# Visiting and Intern Positions
+Visiting research and intern students are welcome to join us either onsite or online. These positions are available year-round. 
