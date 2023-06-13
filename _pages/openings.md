@@ -10,6 +10,6 @@ author_profile: true
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
 
-# PhD Applications
+# PhD Applications[Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program)
 (We have multiple positions for Fall every year)
 
