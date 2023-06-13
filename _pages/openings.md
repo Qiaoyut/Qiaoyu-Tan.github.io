@@ -17,4 +17,5 @@ author_profile: true
 
 # PhD Applications ([Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program))
 (We have multiple positions for Fall every year)
+If you are interested in joining Delta lab, please first contact us at: [<a href="mailto:qiaoyu.tan@nyu.edu">qiaoyu.tan@nyu.edu</a>]
 
