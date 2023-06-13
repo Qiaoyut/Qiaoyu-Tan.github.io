@@ -9,6 +9,8 @@ author_profile: true
 - Sequence Modeling. Large Language Model, Sequential Recommendation, Session-based Recommendation, Time-Series Analysis, Conversational AI 
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
+# Why Join Us?
+NYU Shanghai is the *Shanghai* campus of New York University, one of three degree-awarded campus (including New York, Shanghai, and Abu Dhabi) in NYU's Global System. 
 
 # PhD Applications[Link](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program)
 (We have multiple positions for Fall every year)
