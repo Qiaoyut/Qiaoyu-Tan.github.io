@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to the Delta Lab"
+title: "<font color="#FF0000">Welcome to the Delta Lab</font>"
 permalink: /deltalab/
 author_profile: true
 ---
