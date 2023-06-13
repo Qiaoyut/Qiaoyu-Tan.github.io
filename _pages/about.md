@@ -17,7 +17,7 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 
 We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_**, and **_efficient_** machine learning algorithms with theoretical properties to extract valuable insights, patterns, or knowledge from various high-impact data problems and real-world challenges, including but not limited to:
 - Graph Analytics. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
-- Sequence Modeling. Large Language Model, Sequential and Session Recommendation, Time-Series Analysis, Conversational AI 
+- Sequence Modeling. Large Language Model, Sequential Recommendation, Session-based Recommendation, Time-Series Analysis, Conversational AI 
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
 
