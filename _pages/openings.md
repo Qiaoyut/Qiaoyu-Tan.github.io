@@ -22,6 +22,6 @@ If you are interested in joining Delta lab, please first contact us at: [<a href
 - Please highlight your BS's Average Score/100 and TOEFL/IELTS, since NYU Shanghai has specific requirements
 - Please attach your CV with publication list, national award, and research projects/interns, and Transcrips of BS/MS programmes
 
-The application deadline is **December 12** (hard time). Accepted PhD students will recieve financial aid through the NYU Shanghai Doctoral Fellowship, including tuition fees and an annual stipend. Additional benefits including international health insurance, housing assistance in New York, and travel funds.
+The application deadline is usually in **December** (see [here](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program) for more details). Accepted PhD students will recieve financial aid through the NYU Shanghai Doctoral Fellowship, including tuition fees and an annual stipend. Additional benefits including international health insurance, housing assistance in New York, and travel funds.
 
 <u>Self-funded and visiting</u> PhD positions are available year round.
