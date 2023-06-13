@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data Centric Intelligent Lab @ NYU Shanghai (Delta Lab)"
+title: "Data Centric Intelligent Lab (Delta) @ NYU Shanghai"
 permalink: /deltalab/
 author_profile: true
 ---
