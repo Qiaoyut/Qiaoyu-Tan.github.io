@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "XX Lab"
+title: "Delta Lab@NYU Shanghai"
 permalink: /deltalab/
 author_profile: true
 ---
