@@ -10,8 +10,8 @@ author_profile: true
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
 
-# Group Members
-Coming soon!
+# Lab Members
+## Faculty Member
 
 # Open Positions
 > Group Members
