@@ -29,6 +29,16 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Multi-task Learning for Post-transplant Cause of Death Analysis**    
+    Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
+    <i>AMIA Annual Symposium (**AMIA'23**)</i>. 
+    <a href="https://arxiv.org/pdf/2304.00012.pdf">[PDF]</a>
+    
+*   **Towards Fair Patient-Trial Matching via Patient-Criterion Level Fairness Constraint**     
+    Chia-Yuan Chang, Jiayi Yuan, Sirui Ding, **Qiaoyu Tan**, Kai Zhang, Xiaoqian Jiang, Xia Hu and Na Zou.      
+    <i>AMIA Annual Symposium (**AMIA'23**)</i>. 
+    <a href="https://arxiv.org/pdf/2303.13790.pdf">[PDF]</a>
+    
 *   **Interest Driven Graph Structure Learning for Session-based Recommendation**     
     Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, **Qiaoyu Tan** and Zailiang Yu.      
     <i>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD'23**)</i>. <a href="https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_PAKDD2023.pdf">[PDF]</a>
