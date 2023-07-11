@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints
+*   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
+    <br>
+    Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
+    <i>arXiv:arXiv:2306.10280</i>, 2023. <a href="[https://arxiv.org/pdf/2209.06560.pdf](https://arxiv.org/pdf/2306.10280.pdf)">[PDF]</a>
+    
 *   **Graph Contrastive Learning with Personalized Augmentation**
     <br>
     Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
