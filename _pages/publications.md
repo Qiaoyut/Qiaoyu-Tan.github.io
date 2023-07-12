@@ -24,6 +24,11 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Collaborative Graph Neural Networks for Attributed Network Embedding**    
+    **Qiaoyu Tan**, Xin Zhang, Xiao Huang, Hao Chen, Jundong Li and Xia Hu.      
+    <i>Transactions on Knowledge and Data Engineering (**TKDE'23**)</i>. 
+    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    
 *   **Multi-task Learning for Post-transplant Cause of Death Analysis**    
     Sirui Ding, **Qiaoyu Tan**, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang and Xia Hu.      
     <i>AMIA Annual Symposium (**AMIA'23**)</i>. 
