@@ -17,3 +17,5 @@ author_profile: true
 **Yi Fang** (Summer 2023)[Remote]
 
 **Dongzhe Fan** (Summer 2023)[Remote]
+
+**Luyang Shang** (Summer 2023)[Remote]
