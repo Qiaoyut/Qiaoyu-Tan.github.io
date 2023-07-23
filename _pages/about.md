@@ -56,4 +56,4 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 * \[...\] 
 
 # Background
-I received my Ph.D. degree in the  CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). I also hold a B.S. degree in Computer Science and Technology Department from Southwest University. Prior to my current position, I worked as a research intern at Alibaba Damo Academy and Samsung Research American. 
+I received my Ph.D. degree in the  CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). I also hold a B.S. degree in Computer Science and Technology Department from Southwest University. Prior to my current position, I worked as a research intern at Alibaba Damo Academy and Samsung Research America. 
