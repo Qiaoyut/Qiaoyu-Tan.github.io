@@ -32,6 +32,7 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 - **Internal Student**. If you are a student within the NYU global system, including the New York, Shanghai, and Abu Dhabi campuses, and are interested in gaining professional experience in machine learning and data mining, please feel free to drop me an email with your CV and latest transcript. 
 
 # News
+* \[2023.07\] I will serve as the PC Member of AAAI'24.
 * \[2023.07\] 1 papers was accepted by TKDE'23.
 * \[2023.07\] 2 papers were accepted by AMIA'23. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
