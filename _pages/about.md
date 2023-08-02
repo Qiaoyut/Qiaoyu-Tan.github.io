@@ -33,7 +33,7 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 
 # News
 * \[2023.07\] I will serve as the PC Member of AAAI'24.
-* \[2023.07\] 1 papers was accepted by TKDE'23.
+* \[2023.07\] 1 paper was accepted by TKDE'23.
 * \[2023.07\] 2 papers were accepted by AMIA'23. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
 * \[2023.05\] I will serve as the PC Member of NeurIPS'23. 
