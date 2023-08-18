@@ -24,7 +24,17 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
-*   **Collaborative Graph Neural Networks for Attributed Network Embedding**    
+*   **GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**    
+    Yucheng Shi, Yushun Dong, **Qiaoyu Tan**, Jundong Li and Ninghao Liu.      
+    <i>ACM International Conference on Information and Knowledge Management (**CIKM'23**)</i>. 
+    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
+*   **Homophily-enhanced Structure Learning for Graph Clustering**    
+    Ming Gu, Gaoming Yang, Sheng Zhou, Ning Ma, Jiawei Chen, **Qiaoyu Tan**, Meihan Liu and Jiajun Bu.      
+    <i>ACM International Conference on Information and Knowledge Management (**CIKM'23**)</i>. 
+    <a href="https://arxiv.org/pdf/2308.05309.pdf">[PDF]</a>
+    
+*  **Collaborative Graph Neural Networks for Attributed Network Embedding**    
     **Qiaoyu Tan**, Xin Zhang, Xiao Huang, Hao Chen, Jundong Li and Xia Hu.      
     <i>Transactions on Knowledge and Data Engineering (**TKDE'23**)</i>. 
     <a href="https://arxiv.org/pdf/2307.11981.pdf">[PDF]</a>
