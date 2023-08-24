@@ -27,7 +27,7 @@ author_profile: true
 *   **GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**    
     Yucheng Shi, Yushun Dong, **Qiaoyu Tan**, Jundong Li and Ninghao Liu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM'23**)</i>. 
-    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    <a href="https://arxiv.org/pdf/2308.09663.pdf">[PDF]</a>
 
 *   **Homophily-enhanced Structure Learning for Graph Clustering**    
     Ming Gu, Gaoming Yang, Sheng Zhou, Ning Ma, Jiawei Chen, **Qiaoyu Tan**, Meihan Liu and Jiajun Bu.      
