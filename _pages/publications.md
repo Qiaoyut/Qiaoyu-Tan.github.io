@@ -24,6 +24,11 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding**    
+    Qianggang Zhang, Junnan Dong, **Qiaoyu Tan** and Xiao Huang.      
+    <i>Transactions on Knowledge and Data Engineering (**TKDE'23**)</i>. 
+    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
 *   **GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**    
     Yucheng Shi, Yushun Dong, **Qiaoyu Tan**, Jundong Li and Ninghao Liu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM'23**)</i>. 
