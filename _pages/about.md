@@ -29,6 +29,7 @@ If you are interested in any of these positions, please feel free to drop me an 
 
 
 # News
+* \[2023.09\] 2 papers were accepted by ICDM'23. Looking forward to seeing you in Shanghai!
 * \[2023.08\] 1 paper was accepted by TKDE'23.
 * \[2023.08\] 2 papers were accepted by CIKM'23. 
 * \[2023.07\] I will serve as the PC Member of AAAI'24.
