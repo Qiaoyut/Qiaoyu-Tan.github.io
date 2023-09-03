@@ -24,11 +24,21 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Double Wins: Boosting Accuracy and Efficiency of Graph Neural Networks by Reliable Knowledge Distillation**    
+    **Qiaoyu Tan**, Daochen Zha, Ninghao Liu, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
+    <i>IEEE International Conference on Data Mining (**ICDM'23**)</i>. 
+    <a href="https://openreview.net/pdf?id=NGIFt6BNvLe">[PDF]</a>
+
+*   **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**    
+    Yuanchen Bei, Sheng Zhou, **Qiaoyu Tan**, Hao Xu, Hao Chen, Zhao Li and Jiajun Bu.      
+    <i>IEEE International Conference on Data Mining (**ICDM'23**)</i>. 
+    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    
 *   **Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding**    
     Qianggang Zhang, Junnan Dong, **Qiaoyu Tan** and Xiao Huang.      
     <i>Transactions on Knowledge and Data Engineering (**TKDE'23**)</i>. 
     <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
-
+    
 *   **GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**    
     Yucheng Shi, Yushun Dong, **Qiaoyu Tan**, Jundong Li and Ninghao Liu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM'23**)</i>. 
