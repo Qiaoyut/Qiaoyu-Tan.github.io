@@ -36,9 +36,9 @@ If you are interested in any of these positions, please feel free to drop me an 
 * \[2023.07\] One paper accepted by TKDE'23.
 * \[2023.07\] Two papers accepted by AMIA'23. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
-* \[2023.05\] Invited to serve as a PC Member of NeurIPS'23. 
+* \[2023.05\] Invited to serve as a PC member of NeurIPS'23. 
 * \[2023.05\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
-* \[2023.04\] Invited to serve as a PC Member of CIKM'23. 
+* \[2023.04\] Invited to serve as a PC member of CIKM'23. 
 * \[2023.03\] One paper accepted by PAKDD'23. 
 * \[2023.01\] One paper accepted by WWW'23. 
 * \[2023.05\] Invited to serve as the Web Chair of ICHI'23. 
