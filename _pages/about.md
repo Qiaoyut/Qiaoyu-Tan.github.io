@@ -21,12 +21,12 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
 
 
-⭐📢 **<font color=red size=5> Openings:</font>**
+📢 **<font color=red size=5> Openings:</font>**
 
 Delta Lab is actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. 
 If you are interested in any of these positions, please feel free to drop me an email. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
-⭐📢 **<font color=red size=5> Call for Paper:</font>**
+📢 **<font color=red size=5> Call for Paper:</font>**
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [Website](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
