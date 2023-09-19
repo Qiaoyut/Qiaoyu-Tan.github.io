@@ -23,7 +23,7 @@ We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_*
 
 📢 **<font color=red size=5> Openings</font>**
 
-Delta Lab is actively seeking talented students, post-doctoral research fellows, and research assistants to join our team. 
+Delta Lab is actively seeking talented students, post-doctoral research fellows, and fully-funded research assistants to join our team. 
 If you are interested in any of these positions, please feel free to drop me an email. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
 📢 **<font color=red size=5> Call for Paper</font>**
