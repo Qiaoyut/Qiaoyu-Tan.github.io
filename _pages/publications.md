@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints
+*   **ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**
+    <br>
+    Yucheng Shi, Hehuan Ma, Wenliang Zhong, **Qiaoyu Tan**, Gengchen Mai, Xiang Li, Tianming Liu and Junzhou Huang.      
+    <i>arXiv:2305.03513</i>, 2023. <a href="https://arxiv.org/pdf/2305.03513.pdf">[PDF]</a>
+
 *   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
     <br>
     Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
