@@ -30,7 +30,7 @@ If you are interested in any of these positions, please feel free to drop me an 
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
-* \[2023.09\] An invited talk at GPC\&ICPCSEE'23 at Harbin, China.
+* \[2023.09\] An invited talk at GPC&ICPCSEE'23 at Harbin, China.
 * \[2023.09\] Invited to serve as a PC member of SDM'24.
 * \[2023.09\] Two papers accepted by ICDM'23. Looking forward to seeing you in Shanghai!
 * \[2023.08\] One paper accepted by TKDE'23.
