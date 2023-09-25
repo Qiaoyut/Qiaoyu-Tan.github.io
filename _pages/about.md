@@ -34,7 +34,8 @@ If you are interested in any of these positions, please feel free to drop me an 
 * \[2023.09\] Invited to serve as a PC member of SDM'24.
 * \[2023.09\] Two papers accepted by ICDM'23. Looking forward to seeing you in Shanghai!
 * \[2023.08\] One paper accepted by TKDE'23.
-* \[2023.08\] Two papers accepted by CIKM'23. 
+* \[2023.08\] Two papers accepted by CIKM'23.
+* \[2023.08\] Invited to serve as the Session Chair of KDD'23. 
 * \[2023.07\] Invited to serve as a PC member of AAAI'24 and LoG'23.
 * \[2023.07\] One paper accepted by TKDE'23.
 * \[2023.07\] Two papers accepted by AMIA'23. 
