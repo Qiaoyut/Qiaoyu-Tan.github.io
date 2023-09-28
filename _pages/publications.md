@@ -27,7 +27,7 @@ author_profile: true
 *   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
     <br>
     Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
-    <i>Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS'23**)</i>, 2023. <a href="https://arxiv.org/pdf/2306.10280.pdf">[PDF]</a>
+    <i>Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS'23**)</i>. <a href="https://arxiv.org/pdf/2306.10280.pdf">[PDF]</a>
     
 *   **Double Wins: Boosting Accuracy and Efficiency of Graph Neural Networks by Reliable Knowledge Distillation**    
     **Qiaoyu Tan**, Daochen Zha, Ninghao Liu, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
