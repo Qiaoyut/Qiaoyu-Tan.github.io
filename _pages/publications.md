@@ -12,11 +12,6 @@ author_profile: true
     <br>
     Yucheng Shi, Hehuan Ma, Wenliang Zhong, **Qiaoyu Tan**, Gengchen Mai, Xiang Li, Tianming Liu and Junzhou Huang.      
     <i>arXiv:2305.03513</i>, 2023. <a href="https://arxiv.org/pdf/2305.03513.pdf">[PDF]</a>
-
-*   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
-    <br>
-    Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
-    <i>arXiv:2306.10280</i>, 2023. <a href="https://arxiv.org/pdf/2306.10280.pdf">[PDF]</a>
     
 *   **Graph Contrastive Learning with Personalized Augmentation**
     <br>
