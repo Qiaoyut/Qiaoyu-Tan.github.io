@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 - New York University Shanghai
-  - Instructor, CSCI-SHU XX Machine Learning, Fall 2023
+  - Instructor, CSCI-SHU 360 Machine Learning, Fall 2023
   
 - Texas A&M University
   - Guest Lecturer: IDIS 344: Distributor Information & Control Systems, Spring 2023
