@@ -66,4 +66,4 @@ If you are interested in any of these positions, please feel free to drop me an 
 * Best Student Paper Finalist, AMIA 2023
  
 # Background
-I received my Ph.D. degree in the  CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). I also hold a B.S. degree in Computer Science and Technology Department from Southwest University. Prior to my current position, I worked as a research intern at Alibaba Damo Academy and Samsung Research America. 
+I received my Ph.D. degree in the  CSCE Department at Texas A&M University in 2023 under the supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html). I also hold a B.S. degree in Computer Science and Technology Department from Southwest University supervised by [Dr. Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm). Prior to my current position, I worked as a research intern at Alibaba Damo Academy and Samsung Research America. 
