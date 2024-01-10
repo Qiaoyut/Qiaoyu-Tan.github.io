@@ -27,6 +27,7 @@ Delta Lab is actively seeking talented students, post-doctoral research fellows,
 If you are interested in any of these positions, please feel free to drop me an email. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
 📢 **<font color=red size=5> Call for Paper</font>**
+* Data-centric AI Workshop -- DCAI@WWW'2024 [\[Website\]](https://dcai-workshop.github.io/) (10 February 2024)
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
