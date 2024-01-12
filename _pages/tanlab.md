@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Welcome to the Delta Lab"
-permalink: /deltalab/
+title: "Welcome to the TAN Lab"
+permalink: /tanlab/
 author_profile: true
 ---
 
