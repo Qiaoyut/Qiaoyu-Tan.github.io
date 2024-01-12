@@ -15,11 +15,14 @@ I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Eng
 
 Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.edu/academics/majors/computer-science) at [New York University Shanghai](https://shanghai.nyu.edu/) (NYU Shanghai), leading the [Data-Centric Intelligent Lab (Delta)](https://qiaoyu-tan.github.io/deltalab/). Prior to NYU Shanghai, I received my Ph.D. under the supervision of Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html) at [DATA Lab](https://cs.rice.edu/~xh37/index.html) of TAMU, and B.Eng. under the advisory of Prof. [Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm) at [IDEA Lab](https://www.sdu-idea.cn/index) of SWU. In Delta lab, our research interests are generally in machine learning and data mining, with a particular focus on graph machine learning, foundation models, efficient deep learning, and trustworthy AI. Our research is motivated by, and contributed to, applications in social media, recommendation systems, Q&A system, and bioinformatics. 
 
+We are currently dedicated to advancing **Generative AI for Digital world**, with a focus on enhancing the capabilities of LLMs for graph reasoning. Additionally, we aim to align LLMs with multi-modal data within the relational domain.
+
+<!-- 
 We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_**, and **_efficient_** machine learning algorithms with theoretical properties to extract valuable insights, patterns, or knowledge from various high-impact data problems and real-world challenges, including but not limited to:
 - Graph Analytics. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
 - Sequence Modeling. Large Language Model, Sequential Recommendation, Time-Series Analysis 
 - Tabular Data Mining. AI + X (e.g., Biomolecule and Healthcare) 
-
+-->
 
 📢 **<font color=red size=5> Openings</font>**
 
