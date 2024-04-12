@@ -13,10 +13,10 @@ author_profile: true
     Yucheng Shi, Hehuan Ma, Wenliang Zhong, **Qiaoyu Tan**, Gengchen Mai, Xiang Li, Tianming Liu and Junzhou Huang.      
     <i>arXiv:2305.03513</i>, 2023. <a href="https://arxiv.org/pdf/2305.03513.pdf">[PDF]</a>
     
-*   **Graph Contrastive Learning with Personalized Augmentation**
+*   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
     <br>
-    Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
-    <i>arXiv:2209.06560</i>, 2022. <a href="https://arxiv.org/pdf/2209.06560.pdf">[PDF]</a>
+    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou and Ninghao Liu.      
+    <i>arXiv:2403.19631</i>, 2024. <a href="https://arxiv.org/pdf/2403.19631.pdf">[PDF]</a>
 
 *  **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**     
  **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
