@@ -24,6 +24,12 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Graph Contrastive Learning with Personalized Augmentation**
+    <br>
+    Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
+    <i>Transactions on Knowledge and Data Engineering (**TKDE'24**)</i>.
+    <a href="https://arxiv.org/pdf/2209.06560.pdf">[PDF]</a>
+    
 *   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
     <br>
     Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
