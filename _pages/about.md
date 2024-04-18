@@ -34,6 +34,7 @@ If you are interested in any of these positions, please feel free to drop me an 
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.04\] One paper accepted by TKDE'24.
 * \[2023.10\] Our research in liver transplantation received recognition as a Best Student Paper Finalist at AMIA'23.
 * \[2023.09\] One paper accepted by NeurIPS'23 (Benchmark track).
 * \[2023.09\] An invited talk at GPC&ICPCSEE'23 at Harbin, China.
