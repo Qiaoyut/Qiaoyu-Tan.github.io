@@ -24,6 +24,12 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **DIRECT: Dual Interpretable Recommendation with Multi-aspect Word Attribution**
+    <br>
+    Xuansheng Wu, Hanqin Wan, **Qiaoyu Tan**, Wenlin Yao and Ninghao Liu.       
+    <i>ACM Transactions on Intelligent Systems and Technology (**TIST'24**)</i>.
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3663483">[PDF]</a>
+
 *   **Graph Contrastive Learning with Personalized Augmentation**
     <br>
     Xin Zhang, **Qiaoyu Tan**, Xiao Huang and Bo Li.      
