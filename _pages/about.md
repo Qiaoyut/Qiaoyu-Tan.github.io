@@ -34,6 +34,7 @@ If you are interested in any of these positions, please feel free to drop me an 
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.05\] One paper accepted by KDD'24. 
 * \[2024.05\] One paper accepted by ACL'24.
 * \[2024.05\] One paper accepted by TIST'24.
 * \[2024.04\] One paper accepted by TKDE'24.
