@@ -27,7 +27,7 @@ author_profile: true
 *   **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**
     <br>
     Kaishuai Xu, Yi Cheng, Wenjun Hou, **Qiaoyu Tan**, and Wenjie Li.       
-    <i>Findings of the Association for Computational Linguistics (**ACL(finding)'24**)</i>.
+    <i>Findings of the Association for Computational Linguistics (**ACL Findings'24**)</i>.
     <a href="">[PDF]</a>
     
 *   **DIRECT: Dual Interpretable Recommendation with Multi-aspect Word Attribution**
