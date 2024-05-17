@@ -24,6 +24,12 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**
+    <br>
+    Kaishuai Xu, Yi Cheng, Wenjun Hou, **Qiaoyu Tan**, and Wenjie Li.       
+    <i>Findings of the Association for Computational Linguistics (**ACL(finding)'24**)</i>.
+    <a href="">[PDF]</a>
+    
 *   **DIRECT: Dual Interpretable Recommendation with Multi-aspect Word Attribution**
     <br>
     Xuansheng Wu, Hanqin Wan, **Qiaoyu Tan**, Wenlin Yao and Ninghao Liu.       
