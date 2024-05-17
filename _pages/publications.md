@@ -24,6 +24,12 @@ author_profile: true
  <a href="https://arxiv.org/pdf/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models**
+    <br>
+    Yi Fang, Dongzhe Fan, Daochen Zha, and **Qiaoyu Tan**.       
+    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'24**)</i>.
+    <a href="">[PDF]</a>
+    
 *   **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**
     <br>
     Kaishuai Xu, Yi Cheng, Wenjun Hou, **Qiaoyu Tan**, and Wenjie Li.       
