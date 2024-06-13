@@ -8,15 +8,20 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints    
+*   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
+    <br>
+    Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
+    <i>arXiv:2406.08310</i>, 2024. <a href="https://arxiv.org/pdf/2406.08310">[PDF]</a>
+
 *   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
     <br>
-    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou and Ninghao Liu.      
-    <i>arXiv:2403.19631</i>, 2024. <a href="https://arxiv.org/pdf/2405.03401.pdf">[PDF]</a>
-
+    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.      
+    <i>arXiv:2403.19631</i>, 2024. <a href="https://arxiv.org/pdf/2403.19631.pdf">[PDF]</a>
+    
 *   **E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**
     <br>
     Xin Zhang, Daochen Zha, and **Qiaoyu Tan**.      
-    <i>arXiv:2405.03401</i>, 2024. <a href="https://arxiv.org/pdf/2403.19631.pdf">[PDF]</a>
+    <i>arXiv:2405.03401</i>, 2024. <a href="https://arxiv.org/pdf/2405.03401.pdf">[PDF]</a>
 
 *   **ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**
     <br>
