@@ -16,12 +16,12 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of LLMs for graph reasoning and user behavior modeling. Additionally, we aim to align LLMs with multi-modal data within the relational domain.
 
 
-**<font color=red size=3> Openings</font>**
+**<font color=red size=4.5> Openings</font>**
 
 I am actively seeking self-motivated PhD students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu]. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
-**<font color=red size=3> Call for Paper</font>**
+**<font color=red size=4.5> Call for Paper</font>**
 * Data-Centric AI Workshop -- DCAI@WWW'2024 [\[Website\]](https://dcai-workshop.github.io/) (10 February 2024)
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
