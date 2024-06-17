@@ -8,6 +8,16 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints    
+*   **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
+    <br>
+    Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, and **Qiaoyu Tan**.      
+    <i>arXiv:xx</i>, 2024. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
+*   **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
+    <br>
+    Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
+    <i>arXiv:xx</i>, 2024. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
 *   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
     <br>
     Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
