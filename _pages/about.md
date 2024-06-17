@@ -10,26 +10,18 @@ redirect_from:
   - /publication/
   - /publication.html
 ---
-<!-- 
-I am a fifth-year Ph.D. candidate in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at Texas A&M University, advised by [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). My research interests lie in machine learning and data mining, with a particular focus on graph machine learning, self-supervised learning, and tinny machine learning. I aim to develop effective and efficient graph machine learning algorithms to tackle key challenges faced by real-world AI systems, such as the label-scarce issue in social media, the data sparsity and cold-start problems in recommendation systems, and the outlier detection task in high-stake applications such as finance and business. My current research is centered around **Trustworthy Graph Ecosystem**, with a focus on **foundation**, **robustness**, and **efficiency**, to support the deployment of graph algorithms in the industry to realize social benefits. Please feel free to reach out for potential collaboration.   -->
 
 Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.edu/academics/majors/computer-science) at [New York University (Shanghai)](https://shanghai.nyu.edu/) (NYU Shanghai), leading the [Data-Centric AI and Nets (TAN) Lab](https://qiaoyu-tan.github.io/tanlab/). Prior to NYU Shanghai, I received my Ph.D. under the supervision of Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html) at [DATA Lab](https://cs.rice.edu/~xh37/index.html) of TAMU, and B.Eng. under the advisory of Prof. [Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm) at [IDEA Lab](https://www.sdu-idea.cn/index) of SWU. In TAN lab, our research interests are generally in machine learning and data mining, with a particular focus on graph machine learning, foundation models, efficient deep learning, and trustworthy AI. Our research is motivated by, and contributed to, applications in social media, recommendation systems, question answering, and bioinformatics. 
 
 We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of LLMs for graph reasoning and user behavior modeling. Additionally, we aim to align LLMs with multi-modal data within the relational domain.
 
-<!-- 
-We currently strive to develop **_accurate_**, **_universal_**, **_trustworthy_**, and **_efficient_** machine learning algorithms with theoretical properties to extract valuable insights, patterns, or knowledge from various high-impact data problems and real-world challenges, including but not limited to:
-- Graph Analytics. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
-- Sequence Modeling. Large Language Model, Sequential Recommendation, Time-Series Analysis 
-- Tabular Data Mining. AI + X (e.g., Biomolecule and Healthcare) 
--->
 
-📢 **<font color=red size=3> Openings</font>**
+**<font color=red size=3> Openings</font>**
 
-I am actively seeking talented students, post-doctoral research fellows, and fully-funded research assistants to join our team. 
-If you are interested in any of these positions, please feel free to drop me an email. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
+I am actively seeking self-motivated PhD students and research (remote) interns to work with us on real-world data science problems. 
+If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu]. See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
-📢 **<font color=red size=3> Call for Paper</font>**
+**<font color=red size=3> Call for Paper</font>**
 * Data-Centric AI Workshop -- DCAI@WWW'2024 [\[Website\]](https://dcai-workshop.github.io/) (10 February 2024)
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
