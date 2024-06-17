@@ -30,6 +30,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * \[2024.05\] One paper accepted by ACL'24.
 * \[2024.05\] One paper accepted by TIST'24.
 * \[2024.04\] One paper accepted by TKDE'24.
+* \[2024.04\] One tutorial (RS in the era of LLMs) got accepted by IJCAI'24.
 * \[2023.10\] Our research in liver transplantation received recognition as a Best Student Paper Finalist at AMIA'23.
 * \[2023.09\] One paper accepted by NeurIPS'23 (Benchmark track).
 * \[2023.09\] An invited talk at GPC&ICPCSEE'23 at Harbin, China.
