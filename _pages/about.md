@@ -26,6 +26,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.06\] Two PhD students (Yuanfu Sun and Dongzhe Fan) are welcomed to join the DIRLab!
 * \[2024.05\] One paper accepted by KDD'24. 
 * \[2024.05\] One paper accepted by ACL'24.
 * \[2024.05\] One paper accepted by TIST'24.
