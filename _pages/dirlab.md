@@ -8,14 +8,14 @@ author_profile: true
 **We are looking for passionate PhD students, Post-doctoral Fellows, Master Students, and Undergraduate Students to join the team ([See openings](https://qiaoyu-tan.github.io/openings/))!**
 
 # Faculty
-> Coming soon!
+> Qiaoyu Tan, Assistant Professor of Computer Science Department at NYU (Shanghai)
 
 # PhD Students
-> Coming soon!
+> Yuanfu Sun (Fall 2024)
+> Dongzhe Fan (Fall 2024)
 
-# Visitors/Interns
-**Yi Fang** (Summer 2023)[Remote]
-
-**Dongzhe Fan** (Summer 2023)[Remote]
-
-**Luyang Shang** (Summer 2023)[Remote]
+# Research Interns
+> Yi Fang (Summer 2023)[Onsite]
+> Zhengnan Ma (Fall 2023)[Onsite]
+> Yuyan Liu (Fall 2023)[Remote]
+> Yuhao Liu (Fall 2023)[Onsite]
