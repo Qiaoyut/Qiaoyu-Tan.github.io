@@ -18,4 +18,4 @@ author_profile: true
 * Yi Fang (Summer 2023)[Onsite]
 * Zhengnan Ma (Fall 2023)[Onsite]
 * Yuyan Liu (Fall 2023)[Remote]
-* Yuhao Liu (Fall 2023)[Onsite]
+* Yuhao Xu (Fall 2023)[Onsite]
