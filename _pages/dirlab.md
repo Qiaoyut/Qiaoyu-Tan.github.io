@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Welcome to the TAN Lab"
-permalink: /tanlab/
+title: "Welcome to the DIRLab"
+permalink: /dirlab/
 author_profile: true
 ---
 
