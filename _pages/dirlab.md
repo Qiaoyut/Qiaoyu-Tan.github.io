@@ -19,3 +19,11 @@ We are looking for passionate PhD students, Post-doctoral Fellows, Master Studen
 * Zhengnan Ma (Fall 2023)[Onsite]
 * Yuyan Liu (Fall 2023)[Remote]
 * Yuhao Xu (Fall 2023)[Onsite]
+
+# Undergraduate Students 
+* Helen Zhang (Summer 2024)
+* Jiacheng Shen (Spring 2024)
+* Yuliang Kang (Summer 2024)
+* Ziyun Liu (Summer 2024)
+* Xinyue Shen (Spring 2024)
+* Zhuotong Xie (Summer 2024)
