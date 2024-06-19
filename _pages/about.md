@@ -21,6 +21,14 @@ We are currently dedicated to advancing **Generative AI for Relational World**, 
 I am actively seeking self-motivated PhD students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
+**<font color=red size=5> Recent Works Related to Large Language Models (LLMs)</font>**
+* GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'2024) [link](https://arxiv.org/abs/2406.11945)
+* Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment (ACL'2024) [link](https://openreview.net/pdf?id=fQeJDKu5TT)
+* MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [link]()
+* UniGLM: Training One Unified Language Model for Text-Attributed Graphs [link](https://arxiv.org/abs/2406.12052)
+* Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models [link](https://arxiv.org/abs/2403.19631)
+* ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs [link](https://arxiv.org/abs/2305.03513)
+
 **<font color=red size=5> Call for Paper</font>**
 * Data-Centric AI Workshop -- DCAI@WWW'2024 [\[Website\]](https://dcai-workshop.github.io/) (10 February 2024)
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
