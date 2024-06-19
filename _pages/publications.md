@@ -16,7 +16,7 @@ author_profile: true
 *   **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
     <br>
     Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
-    <i>arXiv:xx</i>, 2024. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    <i>arXiv:2406.12052</i>, 2024. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
 
 *   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
     <br>
@@ -48,7 +48,7 @@ author_profile: true
     <br>
     Yi Fang, Dongzhe Fan, Daochen Zha, and **Qiaoyu Tan**.       
     <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'24**)</i>.
-    <a href="">[PDF]</a>
+    <a href="https://arxiv.org/abs/2406.11945">[PDF]</a>
     
 *   **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**
     <br>
