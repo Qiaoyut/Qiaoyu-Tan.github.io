@@ -17,7 +17,6 @@ We are currently dedicated to advancing **Generative AI for Relational World**, 
 
 
 ***<font color=red size=4> Openings</font>***
-
 I am actively seeking self-motivated PhD students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
