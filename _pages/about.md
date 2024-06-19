@@ -16,7 +16,7 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of LLMs for graph reasoning and user behavior modeling. Additionally, we aim to align LLMs with multi-modal data within the relational domain.
 
 
-# <font color=red> Openings</font>
+**<font color=red size=5> Openings</font>**
 
 I am actively seeking self-motivated PhD students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
