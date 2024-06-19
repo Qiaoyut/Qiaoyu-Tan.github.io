@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaoyu (Steven) Tan"
+title: "Qiaoyu (Smach) Tan"
 excerpt: "Homepage"
 layout: archive
 author_profile: true
