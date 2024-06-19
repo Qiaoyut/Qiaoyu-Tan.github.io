@@ -26,6 +26,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.06\] I will serve as the PC member of NeurIPS'24 (main track and D&B Track), LoG'24, CIKM'24, AAAI'25.
 * \[2024.06\] Two PhD students (Yuanfu Sun and Dongzhe Fan) are welcomed to join the DIRLab!
 * \[2024.05\] One paper accepted by KDD'24. 
 * \[2024.05\] One paper accepted by ACL'24.
@@ -35,21 +36,21 @@ If you are interested in working with me, please feel free to drop me an email a
 * \[2023.10\] Our research in liver transplantation received recognition as a Best Student Paper Finalist at AMIA'23.
 * \[2023.09\] One paper accepted by NeurIPS'23 (Benchmark track).
 * \[2023.09\] An invited talk at GPC&ICPCSEE'23 at Harbin, China.
-* \[2023.09\] Invited to serve as a PC member of SDM'24.
+* \[2023.09\] I will serve as the PC member of SDM'24.
 * \[2023.09\] Two papers accepted by ICDM'23. Looking forward to seeing you in Shanghai!
 * \[2023.08\] One paper accepted by TKDE'23.
 * \[2023.08\] Two papers accepted by CIKM'23.
-* \[2023.08\] Invited to serve as the Session Chair of KDD'23. 
-* \[2023.07\] Invited to serve as a PC member of AAAI'24 and LoG'23.
+* \[2023.08\] I will serve as the Session Chair of KDD'23. 
+* \[2023.07\] I will serve as the PC member of AAAI'24 and LoG'23.
 * \[2023.07\] One paper accepted by TKDE'23.
 * \[2023.07\] Two papers accepted by AMIA'23. 
 * \[2023.06\] I was successfully passed my dissertation defense. 
-* \[2023.05\] Invited to serve as a PC member of NeurIPS'23. 
+* \[2023.05\] I will serve as the PC member of NeurIPS'23. 
 * \[2023.05\] I will be an Assistant Professor of [Computer Science Department](https://shanghai.nyu.edu/academics/majors/computer-science) at NYU Shanghai starting in Fall 2023. 
-* \[2023.04\] Invited to serve as a PC member of CIKM'23. 
+* \[2023.04\] I will serve as the PC member of CIKM'23. 
 * \[2023.03\] One paper accepted by PAKDD'23. 
 * \[2023.01\] One paper accepted by WWW'23. 
-* \[2023.05\] Invited to serve as the Web Chair of ICHI'23. 
+* \[2023.05\] I will serve as the Web Chair of ICHI'23. 
 * \[2022.10\] Three papers accepted by WSDM'23. 
 * \[2022.09\] One paper accepted by NeurIPS'22. 
 * \[2022.08\] One paper accepted by CIKM'22. 
