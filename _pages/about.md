@@ -22,7 +22,7 @@ If you are interested in working with me, please feel free to drop me an email a
 
 ***<font color=red size=4> Recent Works Related to Large Language Models</font>***
 * GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'2024) [\[link\]](https://arxiv.org/abs/2406.11945)
-* Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment (ACL'2024) [\[link\]](https://arxiv.org/abs/2406.13173)
+* Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment (ACL'2024) [\[link\]](https://arxiv.org/abs/2406.13934)
 * MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [\[link\]](https://arxiv.org/pdf/2406.12950)
 * UniGLM: Training One Unified Language Model for Text-Attributed Graphs [\[link\]](https://arxiv.org/abs/2406.12052)
 * Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models [\[link\]](https://arxiv.org/abs/2403.19631)
