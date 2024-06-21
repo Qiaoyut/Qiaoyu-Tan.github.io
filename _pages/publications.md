@@ -54,7 +54,7 @@ author_profile: true
     <br>
     Kaishuai Xu, Yi Cheng, Wenjun Hou, **Qiaoyu Tan**, and Wenjie Li.       
     <i>Findings of the Association for Computational Linguistics (**ACL Findings'24**)</i>.
-    <a href="https://arxiv.org/abs/2406.13173">[PDF]</a>
+    <a href="https://arxiv.org/abs/2406.13934">[PDF]</a>
     
 *   **DIRECT: Dual Interpretable Recommendation with Multi-aspect Word Attribution**
     <br>
