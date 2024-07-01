@@ -4,7 +4,7 @@ title: "Open Positions"
 permalink: /openings/
 author_profile: true
 ---
-**Data Centric AI and Network (TAN) Lab** is an active research group at the [Computer Science Department in New York University Shanghai](https://shanghai.nyu.edu/academics/majors/computer-science). We aim to develop **_accurate_**, **_universal_**, **_trustworthy_**, and **_efficient_** machine learning algorithms with theoretical properties to extract valuable insights, patterns, or knowledge from various high-impact data problems and real-world challenges, including but not limited to:
+**Data Intelligence and Reasoning Lab (DIRLab)** is an active research group at the [Computer Science Department in New York University Shanghai](https://shanghai.nyu.edu/academics/majors/computer-science). We aim to develop **_accurate_**, **_universal_**, **_trustworthy_**, and **_efficient_** machine learning algorithms with theoretical properties to extract valuable insights, patterns, or knowledge from various high-impact data problems and real-world challenges, including but not limited to:
 - Graph Analytics. Graph Neural Networks, Knowledge Graph Reasoning, Graph Recommendation System
 - Sequence Modeling. Large Language Model, Sequential Recommendation, Session-based Recommendation, Time-Series Analysis, Conversational AI 
 - Tabular Data Mining. AI + X (e.g., Healthcare, Education, and Finance) 
@@ -30,11 +30,11 @@ The application deadline is usually in **December** (see [here](https://shanghai
 We currently have several openings for post-doctoral positions. Qualified candidates are encouraged to apply the [Postdoctoral Fellowships in Data Science and Machine Learning](https://apply.interfolio.com/122256). Review of applications will begin immediately and will continue until the positions are filled. Successful candidates will work on topics related to machine learning foundations across a variety of data challenges. Competitive salary and benefits will be provided. For more information, please visit the [Center for Deep Learning and Artificial Intelligence at NYU Shanghai](https://dail.shanghai.nyu.edu/).
 
 # Research Assistant (RA) and Internal Students
-We are looking for excelent students to join us as research assistants (preferably >= 6 months). As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your study in Shanghai.
+We are looking for excelent students to join us as (remote) research assistants (preferably >= 6 months). As a research assistant, you will receive professional guidance and training to publish scientific papers in top-tier machine learning and data mining conferences. Moreover, competitive salary and allowances will be provided to support your study in Shanghai (onsite only).
 
 For Master's and Bachelor's students at NYU's global system (e.g., New York, Shanghai, and Abu Dhabi campuses) who intent to work with us, please contact us as earliest due to the limited positions per year. ML knowledge, Python coding and English writing experience is desirable.
 
-# Visiting and Intern Positions
+# Visiting Positions
 Visiting research and intern students are welcome to join us either onsite or online. These positions are available year round. Powerful computational resources will be provided to support your research and exploration.  
 
 
