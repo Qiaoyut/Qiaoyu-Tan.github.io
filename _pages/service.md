@@ -7,6 +7,7 @@ author_profile: true
 - 2023: 11th ICHI Conference [[Website](https://ieeeichi.github.io/ICHI2023/)]
 
 # Conference Program Committee Member
+- 2024: KDD, CIKM, WWW, AAAI, NeurIPS, LoG
 - 2023: KDD, CIKM, WWW, AAAI, IJCAI, NeurIPS, LoG, SDM, ICHI
 - 2022: KDD, WWW, AAAI, IJCAI, LoG
 - 2021: AAAI, IJCAI, WSDM, NeurIPS, CIKM
