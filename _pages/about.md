@@ -21,11 +21,11 @@ I am actively seeking self-motivated PhD students and research (remote) interns 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! 
 
 ***<font color=red size=4> Recent Works Related to Large Language Models</font>***
-* GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'2024) [\[link\]](https://arxiv.org/abs/2406.11945)
-* Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment (ACL'2024) [\[link\]](https://arxiv.org/abs/2406.13934)
+* GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'24) [\[link\]](https://arxiv.org/abs/2406.11945)
+* Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment (ACL'24) [\[link\]](https://arxiv.org/abs/2406.13934)
+* Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models (CIKM'24) [\[link\]](https://arxiv.org/abs/2403.19631)
 * MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [\[link\]](https://arxiv.org/pdf/2406.12950)
 * UniGLM: Training One Unified Language Model for Text-Attributed Graphs [\[link\]](https://arxiv.org/abs/2406.12052)
-* Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models [\[link\]](https://arxiv.org/abs/2403.19631)
 * ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs [\[link\]](https://arxiv.org/abs/2305.03513)
 
 ***<font color=red size=4> Call for Paper</font>***
@@ -33,6 +33,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.07\] One paper accepted by CIKM'24.
 * \[2024.06\] I will serve as the PC member of NeurIPS'24 (main track and D&B Track), LoG'24, CIKM'24, AAAI'25.
 * \[2024.06\] Two PhD students (Yuanfu Sun and Dongzhe Fan) are welcomed to join the DIRLab!
 * \[2024.05\] One paper accepted by KDD'24. 
