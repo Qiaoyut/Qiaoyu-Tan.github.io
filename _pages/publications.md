@@ -22,11 +22,6 @@ author_profile: true
     <br>
     Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
     <i>arXiv:2406.08310</i>, 2024. <a href="https://arxiv.org/abs/2406.08310">[PDF]</a>
-
-*   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
-    <br>
-    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.      
-    <i>arXiv:2403.19631</i>, 2024. <a href="https://arxiv.org/abs/2403.19631.pdf">[PDF]</a>
     
 *   **E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**
     <br>
@@ -44,6 +39,12 @@ author_profile: true
  <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
+    <br>
+    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.
+    <i>ACM International Conference on Information and Knowledge Management (**CIKM'24**)</i>.     
+    <a href="https://arxiv.org/abs/2403.19631.pdf">[PDF]</a>
+    
 *   **GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models**
     <br>
     Yi Fang, Dongzhe Fan, Daochen Zha, and **Qiaoyu Tan**.       
@@ -71,7 +72,8 @@ author_profile: true
 *   **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**
     <br>
     Zhiyao Zhou, Sheng Zhou, Bochao Mao, Xuanyi Zhou, jiawei Chen, **Qiaoyu Tan**, Daochen Zha, Can Wang, Yan Feng and Chun Chen.      
-    <i>Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS'23**)</i>. <a href="https://arxiv.org/pdf/2306.10280.pdf">[PDF]</a>
+    <i>Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS'23**)</i>.
+    <a href="https://arxiv.org/pdf/2306.10280.pdf">[PDF]</a>
     
 *   **Double Wins: Boosting Accuracy and Efficiency of Graph Neural Networks by Reliable Knowledge Distillation**    
     **Qiaoyu Tan**, Daochen Zha, Ninghao Liu, Soo-Hyun Choi, Li Li, Rui Chen and Xia Hu.      
