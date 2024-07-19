@@ -41,11 +41,6 @@ author_profile: true
 ## Conference/Journal Publications
 *   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
     <br>
-    Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.
-    <i>ACM International Conference on Information and Knowledge Management (**CIKM'24**)</i>. <a href="https://arxiv.org/abs/2403.19631.pdf">[PDF]</a>
-
-*   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
-    <br>
     Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.       
     <i>ACM International Conference on Information and Knowledge Management (**CIKM'24**)</i>.
     <a href="https://arxiv.org/abs/2403.19631">[PDF]</a>
