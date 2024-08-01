@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 - New York University Shanghai
+  - Instructor, DATS-SHU 369 Machine Learning with Graphs, Spring 2024
   - Instructor, CSCI-SHU 360 Machine Learning, Fall 2023
   
 - Texas A&M University
