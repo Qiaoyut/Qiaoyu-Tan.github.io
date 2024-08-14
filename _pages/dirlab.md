@@ -26,4 +26,3 @@ We are looking for passionate PhD students, Post-doctoral Fellows, Master Studen
 * Yuliang Kang (Summer 2024)
 * Ziyun Liu (Summer 2024)
 * Xinyue Shen (Spring 2024)
-* Zhuotong Xie (Summer 2024)
