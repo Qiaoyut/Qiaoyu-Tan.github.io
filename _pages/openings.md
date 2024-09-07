@@ -26,6 +26,13 @@ The application deadline is usually in **December** (see [here](https://shanghai
 
 <u>Self-funded and visiting</u> PhD positions are available year round.
 
+# PhD Applications (East China Normal University (华东师范) Track)
+(We have multiple PhD/Master positions from the [NYU Shanghai-ECNU Joint Graduate Training Program](https://research.shanghai.nyu.edu/research-opportunities/student-research-opportunities/net) every year, called the N.E.T. Program )
+
+If you are interested in joining Delta lab, please first contact us at: [<a href="mailto:qiaoyu.tan@nyu.edu">qiaoyu.tan@nyu.edu</a>].
+- Please highlight your BS's Average Score/100 and TOEFL/IELTS (if applicable), and other materials that can verify your research, math, and coding skills
+- Please attach your CV with publication list, national award, and research projects/interns, and Transcrips of BS/MS programmes
+
 # Postdoc Positions
 We currently have several openings for post-doctoral positions. Qualified candidates are encouraged to apply the [Postdoctoral Fellowships in Data Science and Machine Learning](https://apply.interfolio.com/122256). Review of applications will begin immediately and will continue until the positions are filled. Successful candidates will work on topics related to machine learning foundations across a variety of data challenges. Competitive salary and benefits will be provided. For more information, please visit the [Center for Deep Learning and Artificial Intelligence at NYU Shanghai](https://dail.shanghai.nyu.edu/).
 
