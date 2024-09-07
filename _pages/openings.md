@@ -26,7 +26,7 @@ The application deadline is usually in **December** (see [here](https://shanghai
 
 <u>Self-funded and visiting</u> PhD positions are available year round.
 
-# PhD Applications (East China Normal University (华东师范) Track)
+# PhD/Master Applications (East China Normal University (华东师范) Track)
 (We have multiple PhD/Master positions from the [NYU Shanghai-ECNU Joint Graduate Training Program](https://research.shanghai.nyu.edu/research-opportunities/student-research-opportunities/net) every year, called the N.E.T. Program)
 
 If you are interested in joining Delta lab via N.E.T. program, please first contact us at: [<a href="mailto:qiaoyu.tan@nyu.edu">qiaoyu.tan@nyu.edu</a>].
