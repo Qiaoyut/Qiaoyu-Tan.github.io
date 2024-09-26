@@ -39,6 +39,12 @@ author_profile: true
  <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*   **Gradient Rewiring for Editable Graph Neural Network Training**
+    <br>
+    Zhimeng Jiang, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, **Qiaoyu Tan**, Kaixiong Zhou, Na Zou, and Xia Hu.       
+    <i>Neural Information Processing Systems (**NeurIPS'24**)</i>.
+    <a href="https://openreview.net/forum?id=XY2qrq7cXM">[PDF]</a>
+
 *   **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**
     <br>
     Yucheng Shi, **Qiaoyu Tan**, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, and Ninghao Liu.       
