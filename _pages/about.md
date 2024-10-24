@@ -34,6 +34,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2024.10\] One paper accepted by WSDM'25.
 * \[2024.09\] One paper accepted by NeurIPS'24.
 * \[2024.07\] One paper accepted by CIKM'24.
 * \[2024.06\] I will serve as the PC member of NeurIPS'24 (main track and D&B Track), LoG'24, CIKM'24, AAAI'25.
