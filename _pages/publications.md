@@ -17,21 +17,21 @@ author_profile: true
     <br>
     Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
     <i>arXiv:2406.08310</i>, 2024. <a href="https://arxiv.org/abs/2406.08310">[PDF]</a>
-    
-*   **E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**
-    <br>
-    Xin Zhang, Daochen Zha, and **Qiaoyu Tan**.      
-    <i>arXiv:2405.03401</i>, 2024. <a href="https://arxiv.org/abs/2405.03401.pdf">[PDF]</a>
 
 *   **ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**
     <br>
     Yucheng Shi, Hehuan Ma, Wenliang Zhong, **Qiaoyu Tan**, Gengchen Mai, Xiang Li, Tianming Liu and Junzhou Huang.      
     <i>arXiv:2305.03513</i>, 2023. <a href="https://arxiv.org/abs/2305.03513.pdf">[PDF]</a>
     
+*   **E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**
+    <br>
+    Xin Zhang, Daochen Zha, and **Qiaoyu Tan**.      
+    <i>arXiv:2405.03401</i>, 2024. <a href="https://arxiv.org/abs/2405.03401.pdf">[PDF]</a>
+    
 *  **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**     
- **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
- <i>arXiv:2201.02534</i>, 2022. 
- <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
+     **Qiaoyu Tan**, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi and Xia Hu.      
+     <i>arXiv:2201.02534</i>, 2022. 
+     <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
 *    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
