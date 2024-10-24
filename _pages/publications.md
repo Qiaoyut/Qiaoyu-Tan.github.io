@@ -13,11 +13,6 @@ author_profile: true
     Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, and **Qiaoyu Tan**.      
     <i>arXiv:2406.12950</i>, 2024. <a href="https://arxiv.org/abs/2406.12950">[PDF]</a>
 
-*   **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
-    <br>
-    Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
-    <i>arXiv:2406.12052</i>, 2024. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
-
 *   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
     <br>
     Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
@@ -39,6 +34,11 @@ author_profile: true
  <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
+    <br>
+    Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM'25**)</i>, 2024. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
+    
 *   **Gradient Rewiring for Editable Graph Neural Network Training**
     <br>
     Zhimeng Jiang, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, **Qiaoyu Tan**, Kaixiong Zhou, Na Zou, and Xia Hu.       
