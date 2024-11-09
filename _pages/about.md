@@ -16,7 +16,7 @@ Hello! I am an Assistant Professor in [Computer Science](https://shanghai.nyu.ed
 We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of (multimodal) LLMs for graph reasoning and user behavior modeling. Additionally, we aim to enhancing AI capabilities in the biomedical sciences!
 
 
-***<font color=red size=4> Openings</font>*** **I have multiple openings for fully funded PhD positions at NYU Tandon or Courant in Fall 2025, prioritizing on Multimodal Alignment and Generation, AI for Science, Trustworthy AI and TinyML.** If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu) with your CV. See [Openings](https://qiaoyu-tan.github.io/openings/) for details!  
+***<font color=red size=4> Openings</font>*** **I have multiple openings for fully funded PhD positions at NYU Tandon or Courant in Fall 2025, prioritizing on Multimodal Alignment and Generation, AI for Science, Trustworthy AI and Low-resource AI.** If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu) with your CV. See [Openings](https://qiaoyu-tan.github.io/openings/) for details!  
 
 <!--I am actively seeking self-motivated PhD/Master students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! -->
