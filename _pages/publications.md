@@ -11,7 +11,7 @@ author_profile: true
 *   **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
     <br>
     Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, and **Qiaoyu Tan**.      
-    <i>arXiv:2406.12950</i>, 2025. <a href="https://arxiv.org/abs/2406.12950">[PDF]</a>
+    <i>arXiv:2406.12950</i>, 2024. <a href="https://arxiv.org/abs/2406.12950">[PDF]</a>
 
 *   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
     <br>
@@ -37,7 +37,7 @@ author_profile: true
 *    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
     <br>
     Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
-    <i>ACM International Conference on Web Search and Data Mining (**WSDM'25**)</i>, 2024. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM'25**)</i>, 2025. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
     
 *   **Gradient Rewiring for Editable Graph Neural Network Training**
     <br>
