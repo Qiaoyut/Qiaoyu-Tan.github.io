@@ -36,7 +36,7 @@ author_profile: true
 ## Conference/Journal Publications
 *   **DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recommendation**
     <br>
-    Chi Zhang, Qilong Han, **Qiaoyu Tan**, Shengjie Wang, Xiangyu Zhao, and Rui Chen.
+    Chi Zhang, Qilong Han, **Qiaoyu Tan**, Shengjie Wang, Xiangyu Zhao, and Rui Chen.      
     <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>.
     <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
     
