@@ -34,12 +34,6 @@ author_profile: true
      <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
-*   **DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recommendation**
-    <br>
-    Chi Zhang, Qilong Han, **Qiaoyu Tan**, Shengjie Wang, Xiangyu Zhao, and Rui Chen.      
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>.
-    <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
-    
 *    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
     <br>
     Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
