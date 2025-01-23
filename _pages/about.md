@@ -34,6 +34,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
+* \[2025.01\] One paper accepted by NAACL Findings'25.
 * \[2024.11\] One paper accepted by KDD'25 (August Cycle).
 * \[2024.10\] One paper accepted by WSDM'25.
 * \[2024.09\] One paper accepted by NeurIPS'24.
