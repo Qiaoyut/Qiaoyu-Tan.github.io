@@ -39,7 +39,7 @@ author_profile: true
     Yuanfu Sun, Zhengnan Ma, Yi Fang, Jing Ma, and **Qiaoyu Tan**.      
     <i>Findings of the Association for Computational Linguistics (**NAACL Findings'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
 
-**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
+*    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
     <br>
     Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, and **Qiaoyu Tan**.      
     <i>ACM International Conference on Web Search and Data Mining (**WSDM'25**)</i>, 2025. <a href="https://arxiv.org/abs/2406.12052">[PDF]</a>
