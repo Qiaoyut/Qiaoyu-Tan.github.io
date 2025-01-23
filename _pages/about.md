@@ -21,7 +21,7 @@ We are currently dedicated to advancing **Generative AI for Relational World**, 
 <!--I am actively seeking self-motivated PhD/Master students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! -->
 
-***<font color=red size=4> Recent Works Related to Large Language Models</font>***
+***<font color=red size=4> Recent Works Related to Graph Foundation Models</font>***
 * GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design (NAACL'25) [\[link\]]()
 * UniGLM: Training One Unified Language Model for Text-Attributed Graphs (WSDM'25) [\[link\]](https://arxiv.org/abs/2406.12052)
 * GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'24) [\[link\]](https://arxiv.org/abs/2406.11945)
