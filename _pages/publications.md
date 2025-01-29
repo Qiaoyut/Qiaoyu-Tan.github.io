@@ -37,7 +37,7 @@ author_profile: true
 *    **GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**
     <br>
     Yuanfu Sun, Zhengnan Ma, Yi Fang, Jing Ma, and **Qiaoyu Tan**.      
-    <i>Findings of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL Findings'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    <i>Findings of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL Findings'25**)</i>, 2025. <a href="https://arxiv.org/pdf/2501.15755">[PDF]</a>
 
 *    **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
     <br>
