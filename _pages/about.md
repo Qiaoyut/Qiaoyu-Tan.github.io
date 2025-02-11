@@ -13,7 +13,9 @@ redirect_from:
 
 Hello! I am an Assistant Professor in [Computer Science](https://cs.shanghai.nyu.edu/) at [New York University (Shanghai)](https://shanghai.nyu.edu/) (NYU Shanghai), leading the [Data Intelligence and Reasoning Lab (DIRLab)](https://qiaoyu-tan.github.io/dirlab/). Prior to NYU Shanghai, I received my Ph.D. under the supervision of Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html) at [DATA Lab](https://cs.rice.edu/~xh37/index.html) of TAMU, and B.Eng. under the advisory of Prof. [Guoxian Yu](https://faculty.sdu.edu.cn/yuguoxian/zh_CN/index.htm) at [IDEA Lab](https://www.sdu-idea.cn/index) of SWU. In DIRLab, our research interests are generally in machine learning and data mining, with a particular focus on generative AI, graph machine learning, foundation models, efficient deep learning, and trustworthy AI. Our research is motivated by, and contributed to, applications in social media, recommendation systems, (visual) question answering, and bioinformatics. 
 
-We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of (multimodal) LLMs for graph reasoning and user behavior modeling. Additionally, we aim to enhancing AI capabilities in the biomedical sciences!
+We are currently dedicated to advancing **Generative AI for Relational World**, with a focus on enhancing the capabilities of (multimodal) LLMs for graph learning, chain-of-thought reasoning, and user behavior modeling. 
+
+<!--Additionally, we aim to enhancing AI capabilities in the biomedical sciences!-->
 
 
 ***<font color=red size=4> Openings</font>*** **I have multiple openings for fully funded PhD positions at NYU Tandon or Courant in Fall 2025, prioritizing on Multimodal Alignment and Generation, Long CoT Reasoning, Graph LLM, and Trustworthy AI.** If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu) with your CV. See [Openings](https://qiaoyu-tan.github.io/openings/) for details!  
